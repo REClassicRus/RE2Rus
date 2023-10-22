@@ -1,4 +1,4 @@
-# RE2RusMain
+# Русификатор
 Перевод Resident Evil 2 на русский язык для [патча Resident Evil Classic REbirth](https://classicrebirth.com/index.php/downloads/resident-evil-2-classic-rebirth/). 
 
 ## Папки
