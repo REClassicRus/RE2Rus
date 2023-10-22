@@ -1,0 +1,48 @@
+<Strings>
+	<Text>\n   |- н‘л’7    .Ј \n      ?Ћѕле      .j</Text>
+	<Text>\n     Ѕг S≈‘Ѕ     .j</Text>
+	<Text>\n      ь¬Ћ“?       .V \n    ќн‘’jG‘Ѕ?    .Ј</Text>
+	<Text>\n       ¬Ў        .L \n       е        .L \n  оЎмныиЎ   .л</Text>
+	<Text>\n    Ђ’.лйѕншл    .Ј \n      »‘∆       .L</Text>
+	<Text>\n   г“|- шбе!   .V</Text>
+	<Text>\n     ќ’Ѕи?    .t</Text>
+	<Text>\n    |- W?     .Ј \n     7 ЅѕЎ?     .[</Text>
+	<Text>\n      W      .V \n    ывЅ‘≈ѕ    .j \n  ќЎ≈лз йм—»ѕЎ  .л</Text>
+	<Text>\n      в¬‘—е       .j</Text>
+	<Text>\n  јзо”¬  јd“ƒЅы  .o \n      в¬S«ле      .o</Text>
+	<Text>\n    в¬(≈‘Ѕл    .б \n    ЎHмЋ“и    .j</Text>
+	<Text>\n     ‘ыв)|е!     .j</Text>
+	<Text>\n  г“|- dз‘ Ѕ   .V \n   |- 7|-!    .j</Text>
+	<Text>н‘л’Ѕѕж ѕјЎQ»Ђо \nJил S∆Ћ¬        .</Text>
+	<Text>\n    √и≈ ?    .j    иЎ4йие¬’  \n  ‘“и            .t</Text>
+	<Text>иЎ4йие¬’  \n  ‘“и            .j</Text>
+	<Text>≈жDж≈¬   \n   —Ѕ“JЅ          .„</Text>
+	<Text>\n      U≈ѕл       .j</Text>
+	<Text>\n     KƒЎжkш</Text>
+	<Text>\n    |оbй“Ѕи     \n ”“вWойиW∆ ы‘Ѕ</Text>
+	<Text>\n   |- 7|-!    .j</Text>
+	<Text>мBзћ≈?        \nd</Text>
+	<Text>\n .Ј \n .j</Text>
+	<Text>\n .j</Text>
+	<Text>\n .V \n .Ј</Text>
+	<Text>\n .L \n .L \n .л</Text>
+	<Text>\n .Ј \n .L</Text>
+	<Text>\n .V</Text>
+	<Text>\n .t</Text>
+	<Text>\n .Ј \n .[</Text>
+	<Text>\n .V \n .j \n .л</Text>
+	<Text>\n .j</Text>
+	<Text>\n .o \n .o</Text>
+	<Text>\n .б \n .j</Text>
+	<Text>\n .j</Text>
+	<Text>\n .V \n .j</Text>
+	<Text>\n .</Text>
+	<Text>\n .j  \n .t</Text>
+	<Text>\n .j</Text>
+	<Text>\n .„</Text>
+	<Text>\n .j</Text>
+	<Text>“руба еще не\nдоделана.</Text>
+	<Text>\n–ешетка сломана. ћежду ее прутьев\nвзрослому не пролезть.</Text>
+	<Text>\n .j</Text>
+	<Text>ѕодн€тьс€ по лестнице?\nd go up the ladder?\nd</Text>
+</Strings>

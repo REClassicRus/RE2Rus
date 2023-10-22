@@ -1,0 +1,4 @@
+<Strings>
+	<Text>\n      вВMв8Б</Text>
+	<Text>У него нет никаких\nвещей. .</Text>
+</Strings>

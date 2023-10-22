@@ -1,0 +1,23 @@
+<Strings>
+	<Text>\n\n:</Text>
+	<Text>\n\nя</Text>
+	<Text>\n\nЕ</Text>
+	<Text>\n\n[</Text>
+	<Text>\n\n:</Text>
+	<Text>\n\nq</Text>
+	<Text>\n\n6</Text>
+	<Text>\n\nч</Text>
+	<Text>\n\nj</Text>
+	<Text>\n\nB</Text>
+	<Text>\n\nх</Text>
+	<Text>\n\nl</Text>
+	<Text>\n\n·</Text>
+	<Text>Похоже, сюда\nсвозится мусор  \nсо всего города.</Text>
+	<Text>\n</Text>
+	<Text>Подняться по лестнице?\n the ladder?\n</Text>
+	<Text>«Устройство контроля\nдоступа.» На устройстве выгравированы\nорел и волк.</Text>
+	<Text>Медаль с волком\nна месте.</Text>
+	<Text>Медаль с орлом\nна месте.</Text>
+	<Text>Обе медали\nуже на месте.</Text>
+	<Text>Поток воды слишком быстрый,\nчтобы можно было преодолеть его.r me to cross.</Text>
+</Strings>

@@ -1,0 +1,8 @@
+<Strings>
+	<Text>\n     Ў’Ўоји      мL»ћ≈?          \nD</Text>
+	<Text>мDзћ≈?        \nd</Text>
+	<Text>мBзћ≈?       \nd</Text>
+	<Text>\nЁто дверь на склад. ќткроете ее?\nD</Text>
+	<Text>—пуститьс€ по лестнице?\nd</Text>
+	<Text>ѕодн€тьс€ по лестнице?\ndou go up the ladder?\nd</Text>
+</Strings>

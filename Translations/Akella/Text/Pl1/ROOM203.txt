@@ -1,0 +1,8 @@
+<Strings>
+	<Text>Папки с делами.\nНичего полезного.</Text>
+	<Text>\nВидеоматериалы.</Text>
+	<Text>Файлы о Ракун-Cити.\nВ основном, об »Umbrella».</Text>
+	<Text>Кипа отчетов\nо расследованиях.</Text>
+	<Text>\nКопир.</Text>
+	<Text>\nНичего полезного.chine. \nNothing useful.</Text>
+</Strings>

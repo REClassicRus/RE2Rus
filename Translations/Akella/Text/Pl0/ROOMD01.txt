@@ -1,0 +1,9 @@
+<Strings>
+	<Text>мDзћ≈?\n</Text>
+	<Text>мBзћ≈?\n</Text>
+	<Text>\n   .-- о“√“Ѕи \nFЅћ≈?</Text>
+	<Text>\n  ЅF¬оќ‘ ќ¬ш</Text>
+	<Text>\n   .-- мFѕ</Text>
+	<Text>—пуститьс€ по лестнице?\n</Text>
+	<Text>ѕодн€тьс€ по лестнице?\n dder?\n</Text>
+</Strings>

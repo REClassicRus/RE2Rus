@@ -1,0 +1,3 @@
+<Strings>
+	<Text>\nЛестница. Хотите спуститься\nвниз? he\nladder?</Text>
+</Strings>

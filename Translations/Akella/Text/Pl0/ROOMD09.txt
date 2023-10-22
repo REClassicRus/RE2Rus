@@ -1,0 +1,4 @@
+<Strings>
+	<Text>мDзћ≈?\n</Text>
+	<Text>—пуститьс€ по\nлестнице? r?</Text>
+</Strings>

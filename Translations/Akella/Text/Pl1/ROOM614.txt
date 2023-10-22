@@ -1,0 +1,20 @@
+<Strings>
+	<Text>5</Text>
+	<Text>Г</Text>
+	<Text>"</Text>
+	<Text>s Н й</Text>
+	<Text>m Н t 5</Text>
+	<Text>"</Text>
+	<Text>б</Text>
+	<Text>B</Text>
+	<Text>V o w V</Text>
+	<Text>V N</Text>
+	<Text>t б</Text>
+	<Text>V  X</Text>
+	<Text>Г</Text>
+	<Text>B</Text>
+	<Text>Н Н</Text>
+	<Text>o р</Text>
+	<Text>\nОгромное яйцо.\n</Text>
+	<Text>E</Text>
+</Strings>

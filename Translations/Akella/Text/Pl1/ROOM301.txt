@@ -1,0 +1,45 @@
+<Strings>
+	<Text>\nОн не говорит.\n·</Text>
+	<Text>\nНелепая смерть...\n</Text>
+	<Text>\nТело разорвано на части.\n Как будто что-то внутри\nнего взорвалось...\n</Text>
+	<Text>Н j</Text>
+	<Text>Г</Text>
+	<Text>·</Text>
+	<Text>K</Text>
+	<Text>N</Text>
+	<Text>Н  o</Text>
+	<Text>g</Text>
+	<Text>J o</Text>
+	<Text>Г t</Text>
+	<Text>g g</Text>
+	<Text>w</Text>
+	<Text>E</Text>
+	<Text>Ч</Text>
+	<Text>o</Text>
+	<Text>Х</Text>
+	<Text>E</Text>
+	<Text>w</Text>
+	<Text>w</Text>
+	<Text>Х g V</Text>
+	<Text>V</Text>
+	<Text>"</Text>
+	<Text>w</Text>
+	<Text>w o</Text>
+	<Text>"</Text>
+	<Text>· o Н</Text>
+	<Text>E я</Text>
+	<Text>N</Text>
+	<Text>j б</Text>
+	<Text>V</Text>
+	<Text>V</Text>
+	<Text>V</Text>
+	<Text>Н</Text>
+	<Text>w</Text>
+	<Text>N g</Text>
+	<Text>Х</Text>
+	<Text>N</Text>
+	<Text>w</Text>
+	<Text>Е</Text>
+	<Text>w V</Text>
+	<Text>V O \nV V O \no</Text>
+</Strings>

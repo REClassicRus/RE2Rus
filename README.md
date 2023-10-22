@@ -12,7 +12,7 @@
 **Важно!** Большая просьба присылать ошибки и изменения маленьками кусками, с обоснованиями нового перевода, чтобы их можно было легко, и быстро проверить, запаситесь терпением.
 
 ## Другие переводы
-[Оригинальный текст на английском](https://github.com/REClassicRus/RE2RusMain/tree/master/Translations/English) (без субтитров), [немецкий](https://www.nexusmods.com/residentevil21998/mods/9) (с субтитрами), [испанский](https://www.nexusmods.com/residentevil21998/mods/2) (с субтитрами).
+[Оригинальный текст на английском](https://github.com/REClassicRus/RE2RusMain/tree/master/Translations/English) (без субтитров) и [остальное](https://github.com/Gemini-Loboto3/RE2-Mod-SDK/tree/master/xml), [немецкий](https://www.nexusmods.com/residentevil21998/mods/9) (с субтитрами), [испанский](https://www.nexusmods.com/residentevil21998/mods/2) (с субтитрами).
 
 ## Загрузка
 [Последняя версия](https://github.com/REClassicRus/RE2RusMain/archive/refs/heads/master.zip)

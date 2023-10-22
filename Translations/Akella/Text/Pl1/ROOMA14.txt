@@ -1,0 +1,6 @@
+<Strings>
+	<Text>\n   ƒзѕѕЎоји    1F7кЋћ≈?        \nD</Text>
+	<Text>мDзћ≈?        \nd</Text>
+	<Text>\nјварийна€ лестница. Ќажмете кнопку?\nd</Text>
+	<Text>—пуститьс€ по лестнице?\nd the ladder?\nd</Text>
+</Strings>

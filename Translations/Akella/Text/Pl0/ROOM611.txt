@@ -1,0 +1,32 @@
+<Strings>
+	<Text>Система реле,\nрегулирующая энергоснабжение \nлаборатории.  .Главный предохранитель  был удален,\nи энергоснабжение было  \nостановлено.</Text>
+	<Text>Система реле,\nрегулирующая энергоснабжение \nлаборатории.</Text>
+	<Text>Что заставило ее\nпоступить так?!...</Text>
+	<Text>\nЭто оружие Ады. В магазине совсем не осталось\nпатронов.</Text>
+	<Text>\nНет времени, чтобы возвращаться!</Text>
+	<Text>\n.X</Text>
+	<Text>\n.X</Text>
+	<Text>\n.Q \n.Б</Text>
+	<Text>\n.T \n.t</Text>
+	<Text>\n.Л</Text>
+	<Text>\n.K \n.R</Text>
+	<Text>\n.F</Text>
+	<Text>\n.4</Text>
+	<Text>\n.e</Text>
+	<Text>\n.</Text>
+	<Text>\n.З \n.h</Text>
+	<Text>\n.V</Text>
+	<Text>\n.</Text>
+	<Text>\n." \n.Э</Text>
+	<Text>\n.щ \n.v</Text>
+	<Text>\n.T \n.I</Text>
+	<Text>\n.P</Text>
+	<Text>\n.F</Text>
+	<Text>\n.Ш</Text>
+	<Text>\n.A</Text>
+	<Text>«Устройство контроля\nдоступа.» На устройстве выгравированы\nорел и волк.</Text>
+	<Text>Медаль с волком\nна месте.</Text>
+	<Text>Медаль с орлом\nна месте.</Text>
+	<Text>Обе медали\nуже на месте.</Text>
+	<Text>Поток воды слишком быстрый,\nчтобы можно было преодолеть его.r me to cross.</Text>
+</Strings>

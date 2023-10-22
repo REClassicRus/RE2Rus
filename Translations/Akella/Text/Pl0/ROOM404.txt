@@ -1,0 +1,16 @@
+<Strings>
+	<Text>\n.D</Text>
+	<Text>\n.D</Text>
+	<Text>\n.[</Text>
+	<Text>\n. \n.Е</Text>
+	<Text>\n.x \n.l \n.м</Text>
+	<Text>\n.</Text>
+	<Text>\n.?</Text>
+	<Text>\n.L \n.d</Text>
+	<Text>Он потерял сознание\nот шока при  ранении. Рана, кажется,\nне смертельная...</Text>
+	<Text>Мне нужно поймать\nэту женщину!</Text>
+	<Text>Здесь .карта канализации .\nВозьмете ее?d</Text>
+	<Text>Вы взяли\n.карту канализации .</Text>
+	<Text>\n.H \n.D</Text>
+	<Text>\n.ap .  \n.H \n.D \n.0</Text>
+</Strings>

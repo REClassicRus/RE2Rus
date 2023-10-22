@@ -1,0 +1,3 @@
+<Strings>
+	<Text>Подняться по лестнице?\nd\nd</Text>
+</Strings>

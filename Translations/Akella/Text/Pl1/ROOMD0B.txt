@@ -1,0 +1,6 @@
+<Strings>
+	<Text>’Ѕи“∆мѕƒ ‘»йэ  \n  ∆ћћб‘Ѕ!</Text>
+	<Text>мBзћ≈?        \nd</Text>
+	<Text>\n</Text>
+	<Text>ѕодн€тьс€ по лестнице?\nd\nd</Text>
+</Strings>

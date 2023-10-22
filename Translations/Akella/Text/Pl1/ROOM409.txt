@@ -1,0 +1,49 @@
+<Strings>
+	<Text>\n\nB</Text>
+	<Text>\n\ny</Text>
+	<Text>\n\nj</Text>
+	<Text>\n\n8</Text>
+	<Text>\n\nB</Text>
+	<Text>\n\nЧ</Text>
+	<Text>\n\nл</Text>
+	<Text>\n\nН</Text>
+	<Text>\n\n[</Text>
+	<Text>\n\ne</Text>
+	<Text>\n\nL</Text>
+	<Text>\n\n</Text>
+	<Text>\n\nГ</Text>
+	<Text>\n\nу</Text>
+	<Text>\n\nу</Text>
+	<Text>\n\nD</Text>
+	<Text>\n\nГ</Text>
+	<Text>\n\nТ</Text>
+	<Text>\nл</Text>
+	<Text>\nГ</Text>
+	<Text>\n\nt</Text>
+	<Text>\n\n</Text>
+	<Text>\n\ny</Text>
+	<Text>\n\nt</Text>
+	<Text>\n\n</Text>
+	<Text>\n\nл</Text>
+	<Text>\n\nл</Text>
+	<Text>\n\nt</Text>
+	<Text>\n\n8</Text>
+	<Text>\n\nj</Text>
+	<Text>\n\nr</Text>
+	<Text>\n\nw</Text>
+	<Text>\n\n·</Text>
+	<Text>Машина, регулирующая\nколичество мусора.\n</Text>
+	<Text>Тело сотрудника\nканализационной службы.\n</Text>
+	<Text>Вверху лестницы есть\nвентиляционное отверстие. Вентилятор вращается слишком быстро,\nчтобы можно было пролезть.\n</Text>
+	<Text>\n«Регулятор вентилятора» Вы можете ненадолго остановить\nвращение лопастей.</Text>
+	<Text>не могу перейти,\nпока мост не поднят.\n</Text>
+	<Text>\nОн держит что-то. Но пока мне это\nне нужно.\n</Text>
+	<Text>Похоже на какую-то\nкнигу. Пока мне это не\nнужно.\n</Text>
+	<Text>Спуститься по\nлестнице?</Text>
+	<Text>Вверху лестницы есть\nвентиляционное отверстие. Поднимитесь по ней?\n  go up the ladder?\n</Text>
+	<Text>«Устройство контроля\nдоступа.» На устройстве выгравированы\nорел и волк.</Text>
+	<Text>Медаль с волком\nна месте.</Text>
+	<Text>Медаль с орлом\nна месте.</Text>
+	<Text>Обе медали\nуже на месте.</Text>
+	<Text>Поток воды слишком быстрый,\nчтобы можно было преодолеть его.r me to cross.</Text>
+</Strings>

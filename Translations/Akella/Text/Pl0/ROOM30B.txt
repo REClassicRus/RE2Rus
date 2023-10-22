@@ -1,0 +1,36 @@
+<Strings>
+	<Text>\n .B</Text>
+	<Text>\n .· \n .Г</Text>
+	<Text>\n .L</Text>
+	<Text>\n .t</Text>
+	<Text>\n .t</Text>
+	<Text>\n .j \n .j</Text>
+	<Text>\n .L</Text>
+	<Text>\n .·</Text>
+	<Text>\n .j</Text>
+	<Text>\n .j</Text>
+	<Text>\n .</Text>
+	<Text>\n .V \n .·</Text>
+	<Text>\n .Н \n .Н</Text>
+	<Text>\n .·</Text>
+	<Text>\nЭту дверь не открыть!</Text>
+	<Text>»Утилизационный завод\nРакун-Сити.» »Вход запрещен.»</Text>
+	<Text>\nЗаперто наглухо.rmly.</Text>
+	<Text>\n .B</Text>
+	<Text>\n .· \n .Г</Text>
+	<Text>\n .L</Text>
+	<Text>\n .t</Text>
+	<Text>\n .t</Text>
+	<Text>\n .j \n .j</Text>
+	<Text>\n .L</Text>
+	<Text>\n .·</Text>
+	<Text>\n .j</Text>
+	<Text>\n .j</Text>
+	<Text>\n .</Text>
+	<Text>\n .V \n .·</Text>
+	<Text>\n .Н \n .Н</Text>
+	<Text>\n .·</Text>
+	<Text>\nЭту дверь не открыть!</Text>
+	<Text>»Утилизационный завод\nРакун-Сити.» »Вход запрещен.»</Text>
+	<Text>\nЗаперто наглухо.rmly.</Text>
+</Strings>

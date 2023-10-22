@@ -1,0 +1,5 @@
+<Strings>
+	<Text>Нет времени заниматься\nэтим!</Text>
+	<Text>Нажать на кнопку?\nD</Text>
+	<Text>Подняться по лестнице?\ndthe ladder?\nd</Text>
+</Strings>

@@ -1,0 +1,5 @@
+<Strings>
+	<Text>\nЕго заклевали до смерти.</Text>
+	<Text>не могу открыть\nиз-за мусора.</Text>
+	<Text>\nДверь не открыть!won't open!</Text>
+</Strings>

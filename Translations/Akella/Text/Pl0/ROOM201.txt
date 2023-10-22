@@ -1,0 +1,10 @@
+<Strings>
+	<Text>За столом дежурного\nрасположен офис.</Text>
+	<Text>\nЗдесь нет ничего особенного.</Text>
+	<Text>\n \n</Text>
+	<Text>Символ полиции\nРакун-Сити.</Text>
+	<Text>Слишком темно,\nи что снаружи не видно.</Text>
+	<Text>\nДревняя печь.</Text>
+	<Text>\n</Text>
+	<Text>Ничего\nособенного.tove. \n Nothing out of the\nordinary.</Text>
+</Strings>

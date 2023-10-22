@@ -1,0 +1,50 @@
+<Strings>
+	<Text>нажмите любую кнопку]></Text>
+	<Text>]Хорошо!]Боковые двери зала открыты.</Text>
+	<Text>]Проверка карты[025.[025.[025.[025.</Text>
+	<Text>]</Text>
+	<Text>]Двери могут быть разблокированы] с |2CARD KEY|0.]</Text>
+	<Text>Боковые двери зала:      |2LOCKED|0]</Text>
+	<Text>Боковые двери зала:    |2RELEASED|0]</Text>
+	<Text>УПРАВЛЕНИЕ ДВЕРЬМИ]------------------------------</Text>
+	<Text>Регистрация гостя действует]24 часа.]</Text>
+	<Text>Регистрация завершена.]]</Text>
+	<Text>Пожалуйста, подождите[025.[025.[025.[025.[025.]</Text>
+	<Text>Зарегистрируйте свой отпечаток пальца.</Text>
+	<Text>|1Этого имени нет в]базе данных учёных.|0]</Text>
+	<Text>GUEST</Text>
+	<Text>Введите ваше имя.]></Text>
+	<Text>Проверка доступа[020.[020.[020.[020.[020.]]</Text>
+	<Text>Реестр сотрудников оранжереи.]]</Text>
+	<Text>UMBRELLA "RODEM" SYSTEM]                      Ver 5.0]</Text>
+	<Text>Зарегистрируйте ваш отпечаток пальца.]</Text>
+	<!-- ex battle messages; Ü=@, ü=%, ö=$, ä=# -->
+	<Text>Ада Вонг]</Text>
+	<Text>[007Colt.S.A.A.]</Text>
+	<Text>[005MAC-11]</Text>
+	<Text>[005Armbrust]</Text>
+	<Text>[005Farbband]</Text>
+	<Text>[005Gemischte Kr#uter</Text>
+	<Text> </Text>
+	<Text>Леон С. Кеннеди]</Text>
+	<Text>[007H&amp;K VP70M]</Text>
+	<Text>[005Reminton M1100-P]</Text>
+	<Text>[005Desert Eagle 50A.E.]</Text>
+	<Text>[005Farbband]</Text>
+	<Text>[005Erste-Hilfe-Spray]</Text>
+	<Text>[005Blaue Kr#uter]</Text>
+	<Text>Клэр Редфилд]</Text>
+	<Text>[007M79-Granatwerfer]</Text>
+	<Text>[005Brandgranaten]</Text>
+	<Text>[005S#uregranaten]</Text>
+	<Text>[005Farbband]</Text>
+	<Text>[005Erste-Hilfe-Spray]</Text>
+	<Text>[005Blaue Kr#uter]</Text>
+	<Text>Крис Редфилд]</Text>
+	<Text>[007Beretta-M92FS]</Text>
+	<Text>[005Remington M1100]</Text>
+	<Text>[005Raketenwerfer]</Text>
+	<Text>[005Farbband]</Text>
+	<Text>[005Erste-Hilfe-Spray]</Text>
+	<Text> </Text>
+</Strings>

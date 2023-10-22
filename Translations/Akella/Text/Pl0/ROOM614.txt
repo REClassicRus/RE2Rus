@@ -1,0 +1,39 @@
+<Strings>
+	<Text>5</Text>
+	<Text>Г</Text>
+	<Text>"</Text>
+	<Text>s Н й</Text>
+	<Text>m Н t 5</Text>
+	<Text>"</Text>
+	<Text>б</Text>
+	<Text>B</Text>
+	<Text>V o w V</Text>
+	<Text>V N</Text>
+	<Text>t б</Text>
+	<Text>V  X</Text>
+	<Text>Г</Text>
+	<Text>B</Text>
+	<Text>Н Н</Text>
+	<Text>o р</Text>
+	<Text>\nОгромное яйцо.\n</Text>
+	<Text>E</Text>
+	<Text>Здесь есть\nкарта лаборатории. Хотите взять\n .карту лаборатории ?\nd</Text>
+	<Text>\n .L</Text>
+	<Text>\n .V</Text>
+	<Text>\n .Т</Text>
+	<Text>\n .·</Text>
+	<Text>\n .V</Text>
+	<Text>\n .Г</Text>
+	<Text>\n .j</Text>
+	<Text>\n .Ч</Text>
+	<Text>\n .Г</Text>
+	<Text>\n .Ч</Text>
+	<Text>\n .Ч</Text>
+	<Text>\n .б  \n .я</Text>
+	<Text>\n</Text>
+	<Text>Вы взяли\n.карту лаборатории .</Text>
+	<Text>-Х:оHТБи  \n «rB.O.W.GOРС» 0м4йМЕ?   \n            d</Text>
+	<Text>\n «rB.O.W.GOД»</Text>
+	<Text>\n «rB.O.W.GOab»</Text>
+	<Text>Линия энергоснабжения\nбыла переключена. Консоль также\nне реагирует.s not\nrespond either.</Text>
+</Strings>

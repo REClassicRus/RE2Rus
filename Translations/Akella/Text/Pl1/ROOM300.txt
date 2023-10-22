@@ -1,0 +1,23 @@
+<Strings>
+	<Text>\nЕго смерть была ужасной..</Text>
+	<Text>Пила. Лезвие измазано\nсвежей кровью.</Text>
+	<Text>Формалин, хлороформ и\nдругие химикаты...</Text>
+	<Text>Обычное чучело\nживотного.</Text>
+	<Text>\nЖуткие вещи.</Text>
+	<Text>\nЛестница ведет вниз. Спуститесь?\nd</Text>
+	<Text>Его тело было разорвано\nна части. Как будто что-то взорвалось\nу него внутри...</Text>
+	<Text>\n.X \n.t \n.Q</Text>
+	<Text>\n.Г \n.X</Text>
+	<Text>\n.] \n.O</Text>
+	<Text>\n. \n.х</Text>
+	<Text>\n.О \n.</Text>
+	<Text>\n.e \n. \n.</Text>
+	<Text>\n.z</Text>
+	<Text>\n.T</Text>
+	<Text>\n.</Text>
+	<Text>\n.x</Text>
+	<Text>\n.И \n.р \n.[ \n.g</Text>
+	<Text>\n.Л \n.н</Text>
+	<Text>\n.</Text>
+	<Text>\n.Z \n.· \n. \n. \n.Z \n.· \n.q</Text>
+</Strings>

@@ -1,0 +1,4 @@
+<Strings>
+	<Text>Стойка с журналами. Ничего\nполезного здесь нет.</Text>
+	<Text>\n\n</Text>
+</Strings>

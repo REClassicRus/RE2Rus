@@ -1,0 +1,26 @@
+<Strings>
+	<Text>Похоже на центральную\nсистему управления... Все переключатели\nзаблокированы.</Text>
+	<Text>Система самоуничтожения\nвключена...</Text>
+	<Text>\n.8</Text>
+	<Text>\n.0</Text>
+	<Text>\n.Ж</Text>
+	<Text>\n.t \n.i</Text>
+	<Text>\n.р \n.p</Text>
+	<Text>\n.F</Text>
+	<Text>\n.I</Text>
+	<Text>\n.P \n.</Text>
+	<Text>\n.,</Text>
+	<Text>\n.У</Text>
+	<Text>\n.e</Text>
+	<Text>\n.e</Text>
+	<Text>\n.:</Text>
+	<Text>\n.p \n.z \n.] \n.</Text>
+	<Text>\n.Б \n.!</Text>
+	<Text>\n.p \n.z \n.] \n.</Text>
+	<Text>\nШерри здесь нет···ot here···</Text>
+	<Text>«Устройство контроля\nдоступа.» На устройстве выгравированы\nорел и волк.</Text>
+	<Text>Медаль с волком\nна месте.</Text>
+	<Text>Медаль с орлом\nна месте.</Text>
+	<Text>Обе медали\nуже на месте.</Text>
+	<Text>Поток воды слишком быстрый,\nчтобы можно было преодолеть его.r me to cross.</Text>
+</Strings>

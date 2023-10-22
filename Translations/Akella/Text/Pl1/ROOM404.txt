@@ -1,0 +1,39 @@
+<Strings>
+	<Text>\n.D</Text>
+	<Text>\n.D</Text>
+	<Text>\n.[</Text>
+	<Text>\n. \n.Е</Text>
+	<Text>\n.x \n.l \n.м</Text>
+	<Text>\n.</Text>
+	<Text>\n.?</Text>
+	<Text>\n.L \n.d</Text>
+	<Text>Он потерял сознание\nот шока при  ранении. Рана, кажется,\nне смертельная...</Text>
+	<Text>Мне нужно поймать\nэту женщину!</Text>
+	<Text>Здесь .карта канализации .\nВозьмете ее?d</Text>
+	<Text>Вы взяли\n.карту канализации .</Text>
+	<Text>\n.H \n.D</Text>
+	<Text>\n.ap .  \n.H \n.D \n.0</Text>
+	<Text>\n .· \n .j</Text>
+	<Text>\n .j</Text>
+	<Text>\n .V \n .·</Text>
+	<Text>\n .L \n .L \n .л</Text>
+	<Text>\n .· \n .L</Text>
+	<Text>\n .V</Text>
+	<Text>\n .t</Text>
+	<Text>\n .· \n .[</Text>
+	<Text>\n .V \n .j \n .л</Text>
+	<Text>\n .j</Text>
+	<Text>\n .o \n .o</Text>
+	<Text>\n .б \n .j</Text>
+	<Text>\n .j</Text>
+	<Text>\n .V \n .j</Text>
+	<Text>\n .</Text>
+	<Text>\n .j  \n .t</Text>
+	<Text>\n .j</Text>
+	<Text>\n .Ч</Text>
+	<Text>\n .j</Text>
+	<Text>Труба еще не\nдоделана.</Text>
+	<Text>\nРешетка сломана. Между ее прутьев\nвзрослому не пролезть.</Text>
+	<Text>\n .j</Text>
+	<Text>Подняться по лестнице?\nd go up the ladder?\nd</Text>
+</Strings>

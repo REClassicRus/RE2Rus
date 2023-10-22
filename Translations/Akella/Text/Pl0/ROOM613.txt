@@ -1,0 +1,34 @@
+<Strings>
+	<Text>Воспользоваться\nкомпьютером?d</Text>
+	<Text>Не могу добраться до\nкомпьютера.</Text>
+	<Text>«Зал экспериментов с культурами: регистрация сотрудника.»</Text>
+	<Text>«Введите имя.»</Text>
+	<Text>«Этого имени нет в базе данных исследователей.»</Text>
+	<Text>«Начало временной регистрации.»</Text>
+	<Text>«Сохраните отпечаток пальца.»</Text>
+	<Text>Зарегистрируетесь?</Text>
+	<Text>«ю]Д»</Text>
+	<Text>«Регистрация окончена.»</Text>
+	<Text>«Регистрация гостя</Text>
+	<Text>действительно 24 часа.»</Text>
+	<Text>«/]BCK0ю]»</Text>
+	<Text>Здесь есть\nкарта лаборатории. Хотите взять\n .карту лаборатории ?\nd</Text>
+	<Text>\n .L</Text>
+	<Text>\n .V</Text>
+	<Text>\n .Т</Text>
+	<Text>\n .·</Text>
+	<Text>\n .V</Text>
+	<Text>\n .Г</Text>
+	<Text>\n .j</Text>
+	<Text>\n .Ч</Text>
+	<Text>\n .Г</Text>
+	<Text>\n .Ч</Text>
+	<Text>\n .Ч</Text>
+	<Text>\n .б  \n .я</Text>
+	<Text>\n</Text>
+	<Text>Вы взяли\n.карту лаборатории .</Text>
+	<Text>-Х:оHТБи  \n «rB.O.W.GOРС» 0м4йМЕ?   \n            d</Text>
+	<Text>\n «rB.O.W.GOД»</Text>
+	<Text>\n «rB.O.W.GOab»</Text>
+	<Text>Линия энергоснабжения\nбыла переключена. Консоль также\nне реагирует.s not\nrespond either.</Text>
+</Strings>

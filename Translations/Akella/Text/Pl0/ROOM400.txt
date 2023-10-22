@@ -1,0 +1,7 @@
+<Strings>
+	<Text>\n\nT</Text>
+	<Text>\n\nt</Text>
+	<Text>\nВодоспуск открыт.\n</Text>
+	<Text>Темно, и что внутри\nне видно.\n</Text>
+	<Text>\n\n.\n  \n\nL</Text>
+</Strings>

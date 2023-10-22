@@ -1,0 +1,6 @@
+<Strings>
+	<Text>ีม่าฦ์ฯฤสิศ้ý  \n สฦฬฬแิม!</Text>
+	<Text>\n  ๘.QI ์๓ีม้ามิม!</Text>
+	<Text>\n</Text>
+	<Text>\n  ๘QI์๓ีม้ามิม!</Text>
+</Strings>

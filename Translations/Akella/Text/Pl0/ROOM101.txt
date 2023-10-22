@@ -1,0 +1,23 @@
+<Strings>
+	<Text>\n.5</Text>
+	<Text>\n.b</Text>
+	<Text>\n.Z</Text>
+	<Text>\n.H</Text>
+	<Text>\n.S</Text>
+	<Text>\n.V</Text>
+	<Text>\n.:</Text>
+	<Text>\n.Z \n.</Text>
+	<Text>\n.з</Text>
+	<Text>\n.T</Text>
+	<Text>\n.'</Text>
+	<Text>\n.' \n.й</Text>
+	<Text>\n.[ \n.Y \n.-</Text>
+	<Text>\nГазета датирована 18.09 \nОна здесь не к месту.</Text>
+	<Text>Контейнер сломан. Внутри\nнет ничего полезного.</Text>
+	<Text>Больше здесь\nничего полезного.</Text>
+	<Text>\nЕще куча бесполезного хлама.</Text>
+	<Text>На улицах более\nнебезопасно.</Text>
+	<Text>\nБольше не дышит.</Text>
+	<Text>Гильзы от патронов и\nдругие принадлежности.</Text>
+	<Text>\n\n</Text>
+</Strings>

@@ -1,0 +1,4 @@
+<Strings>
+	<Text>\n    оLЕФБ!!</Text>
+	<Text>\nДверь не открыть!n!</Text>
+</Strings>

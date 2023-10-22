@@ -1,0 +1,16 @@
+<Strings>
+	<Text>\n\nB</Text>
+	<Text>\n\nj</Text>
+	<Text>\n\nя</Text>
+	<Text>\n\nB</Text>
+	<Text>\n\nB</Text>
+	<Text>\n\nQ</Text>
+	<Text>\n\nt</Text>
+	<Text>\n\nН</Text>
+	<Text>\n\nя</Text>
+	<Text>\n\nt</Text>
+	<Text>\n\nt</Text>
+	<Text>\nДальше мне не пройти.\n</Text>
+	<Text>Машина не на ручнике, но\nв одиночку мне ее не сдвинуть.\n</Text>
+	<Text>\nДокументация парковки.\n</Text>
+</Strings>

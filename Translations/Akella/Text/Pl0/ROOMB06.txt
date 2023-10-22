@@ -1,0 +1,4 @@
+<Strings>
+	<Text>мDзћ≈?        \nd</Text>
+	<Text>—пуститьс€ по лестнице?\nd?\nd</Text>
+</Strings>

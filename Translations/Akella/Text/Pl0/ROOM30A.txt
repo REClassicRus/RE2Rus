@@ -1,0 +1,7 @@
+<Strings>
+	<Text>Мне нужно вернуться\nза Шерри!</Text>
+	<Text>\n.]</Text>
+	<Text>\n.6</Text>
+	<Text>\n.P</Text>
+	<Text>Спуститься по лестнице?\ndr?\nd</Text>
+</Strings>

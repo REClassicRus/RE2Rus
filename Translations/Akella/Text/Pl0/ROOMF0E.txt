@@ -1,0 +1,6 @@
+<Strings>
+	<Text>мBзМЕ?        \nd</Text>
+	<Text>мDзМЕ?        \nd</Text>
+	<Text>Подняться по лестнице?\nd</Text>
+	<Text>Спуститься по лестнице?\nddder?\nd</Text>
+</Strings>

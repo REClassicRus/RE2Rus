@@ -1,0 +1,21 @@
+<Strings>
+	<Text>. арта полицейского участка .\n¬озьмете ее?</Text>
+	<Text>оји\n   ЅошF√ќ¬ш\n</Text>
+	<Text>\n ∆≈»Ў|о й“Ѕи \n’Mв4ѕж‘Ѕ\n</Text>
+	<Text>ЎK((‘ьо ≈й“Ѕи\n2;3»Ў (оtЅ\n</Text>
+	<Text>\n  ¬’√–ќ¬‘вЎ8Ѕ\n</Text>
+	<Text>\n FAXЎ04ѕш\n</Text>
+	<Text>\n K(Ў|ыЅЅш\n</Text>
+	<Text>—ЅYЁьыKмЋ“ЅѕDо\n»жйи\n</Text>
+	<Text>\n   ≈‘зFЅй“Ѕи \n     Ќ’Mв8Ѕ\n</Text>
+	<Text>KЎ”–¬ыЅ‘«‘ѕе¬ш\nу—≈хЎKо“Ѕи\n</Text>
+	<Text>\n  KмЋе¬”Ћ“Ѕѕе¬ш\n</Text>
+	<Text>\n    о≈≈“Ѕи\n</Text>
+	<Text>\n    .2Ѕ мFѕ\n</Text>
+	<Text>\nифровой замок. ѕерва€ цифра кода?\n</Text>
+	<Text>¬тора€ цифра кода?\n\n</Text>
+	<Text>“реть€ цифра кода?\n\n</Text>
+	<Text>„етверта€ цифра кода?\n\n</Text>
+	<Text>¬ы вз€ли\n.карту полицейского участка .\n</Text>
+	<Text>\nЁту дверь не открыть!\n\n</Text>
+</Strings>

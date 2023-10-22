@@ -1,0 +1,7 @@
+<Strings>
+	<Text>Газета недельной\nдавности.\n</Text>
+	<Text>\nНичего особенного.\n</Text>
+	<Text>Его горло и живот\nбыли разодраны.\n</Text>
+	<Text>\nНичего полезного.\n</Text>
+	<Text>\nЭтот ящик пуст.\nn this locker.\n</Text>
+</Strings>

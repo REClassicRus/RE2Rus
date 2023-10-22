@@ -1,0 +1,13 @@
+<Strings>
+	<Text>\nЗаперто. Может открыться, если\nвосстановить энергоснабжение.</Text>
+	<Text>Панель управления\nфуникулером. Включить подачу энергии?\nD</Text>
+	<Text>Панель управления\nфуникулером.</Text>
+	<Text>\nБольшая гондола.</Text>
+	<Text>Н.Q</Text>
+	<Text>G.·</Text>
+	<Text>L.y</Text>
+	<Text>V.G</Text>
+	<Text>.c</Text>
+	<Text>.Г</Text>
+	<Text>\nНичего полезного.seful.</Text>
+</Strings>

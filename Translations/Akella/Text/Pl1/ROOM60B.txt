@@ -1,0 +1,7 @@
+<Strings>
+	<Text>Это переключатель от ворот.\nНажмете?\n</Text>
+	<Text>\nНикакого эффекта... \nНет энергоснабжения.\n</Text>
+	<Text>Этот замок\nуже открыт.\n</Text>
+	<Text>Ворота надежно\nзакрыты.\n</Text>
+	<Text>Заперто с той\nстороны.\n\n It's locked from the\nother side.\n</Text>
+</Strings>

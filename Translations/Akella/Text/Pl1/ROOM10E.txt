@@ -1,0 +1,24 @@
+<Strings>
+	<Text>Переключатель.\nНажмете его?\nD</Text>
+	<Text>Переключатель.\nНажмете его?\nD</Text>
+	<Text>6</Text>
+	<Text>F</Text>
+	<Text>В</Text>
+	<Text></Text>
+	<Text>c</Text>
+	<Text></Text>
+	<Text>Y</Text>
+	<Text>д</Text>
+	<Text>; w</Text>
+	<Text>я S</Text>
+	<Text>t Н</Text>
+	<Text>Н J Н</Text>
+	<Text>;</Text>
+	<Text>p</Text>
+	<Text>C</Text>
+	<Text>L</Text>
+	<Text>\nРазличные предметы искусства.\n \nНичего полезного.\n</Text>
+	<Text>\nЕго хранили в чистоте.\n</Text>
+	<Text>Кубок.\nНичего необычного.\n</Text>
+	<Text>Не похоже, чтобы\nего использовали.\ned.\n</Text>
+</Strings>

@@ -1,0 +1,49 @@
+<Strings>
+	<Text>Все, что мне нужно, чтобы\nрасчистить завал,\n блокирующий проход,\nэто .заряд взрывчатки ...\n</Text>
+	<Text>Должно быть, жертва\nзомби\n</Text>
+	<Text>На теле видны следы\nсопротивления.\n</Text>
+	<Text>\nУжасный труп.\n</Text>
+	<Text>Голова была\nотрублена.\n</Text>
+	<Text>\nСегодняшняя дата.\n «29 сентября\nМихайлов день»\n</Text>
+	<Text>Рядом со столом дежурного\nрасположена комната ожидания.\n</Text>
+	<Text>\nНичего подозрительного.\n</Text>
+	<Text>Рамка с фотографией.\nВероятно, семейное фото.\n</Text>
+	<Text>Кто-то перевернул здесь\nвсе вверх дном.\n</Text>
+	<Text>Пачка папок.\nНичего полезного.\n</Text>
+	<Text>На столе полный\nкавардак.\n</Text>
+	<Text>\nНет ничего полезного.\n</Text>
+	<Text>I</Text>
+	<Text>'</Text>
+	<Text>я я</Text>
+	<Text>L</Text>
+	<Text></Text>
+	<Text>Н Н</Text>
+	<Text>ч</Text>
+	<Text>о</Text>
+	<Text>E</Text>
+	<Text>Г</Text>
+	<Text>Н t \n\n»  Н</Text>
+	<Text>t</Text>
+	<Text>о</Text>
+	<Text>я E</Text>
+	<Text>"</Text>
+	<Text>E</Text>
+	<Text>"</Text>
+	<Text>o</Text>
+	<Text>N</Text>
+	<Text>o</Text>
+	<Text>g</Text>
+	<Text>Х</Text>
+	<Text>Х</Text>
+	<Text>o w g</Text>
+	<Text>N</Text>
+	<Text>о</Text>
+	<Text></Text>
+	<Text>B</Text>
+	<Text>ж</Text>
+	<Text>ч N</Text>
+	<Text>"</Text>
+	<Text>"</Text>
+	<Text>"</Text>
+	<Text>B ж ч N " " " g</Text>
+</Strings>

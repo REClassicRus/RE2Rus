@@ -1,0 +1,3 @@
+<Strings>
+	<Text>\nЧучело животного.\n</Text>
+</Strings>

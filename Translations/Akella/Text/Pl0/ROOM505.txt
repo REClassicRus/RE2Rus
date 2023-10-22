@@ -1,0 +1,41 @@
+<Strings>
+	<Text>\nОна без сознания...</Text>
+	<Text>\nОна без сознания...</Text>
+	<Text>\nПанель безопасности «В случае ЧС,\nзагорится красный сигнал и доступ снаружи\nбудет закрыт \nна некоторое время.»</Text>
+	<Text>\n.p</Text>
+	<Text>\n.P \n.H</Text>
+	<Text>«Внимание: двигатель\nбыл остановлен из-за\nперегрева.»</Text>
+	<Text>\n.4</Text>
+	<Text>\n.Б</Text>
+	<Text>\n.D</Text>
+	<Text>\n.,</Text>
+	<Text>\n.L \n.э</Text>
+	<Text>\n. \n.d</Text>
+	<Text>\n. \n.</Text>
+	<Text>\n.</Text>
+	<Text>\n.Ж</Text>
+	<Text>\n.x \n.·</Text>
+	<Text>\n.L</Text>
+	<Text>\n.О</Text>
+	<Text>\n.L</Text>
+	<Text>\n.</Text>
+	<Text>\n.[</Text>
+	<Text>\n.A</Text>
+	<Text>\n.Q \n.Q</Text>
+	<Text>\n.Л</Text>
+	<Text>\n.G</Text>
+	<Text>\n v \n.</Text>
+	<Text>\n.е</Text>
+	<Text>\n.T</Text>
+	<Text>\n.n \n.y</Text>
+	<Text>\n.I</Text>
+	<Text>\n.c \n.d</Text>
+	<Text>\n.e</Text>
+	<Text>\n.D</Text>
+	<Text>\n., \n.I \n.c \n.d \n.e \n.D \n., \n.Е</Text>
+	<Text>«Устройство контроля\nдоступа.» На устройстве выгравированы\nорел и волк.</Text>
+	<Text>Медаль с волком\nна месте.</Text>
+	<Text>Медаль с орлом\nна месте.</Text>
+	<Text>Обе медали\nуже на месте.</Text>
+	<Text>Поток воды слишком быстрый,\nчтобы можно было преодолеть его.r me to cross.</Text>
+</Strings>

@@ -1,0 +1,5 @@
+<Strings>
+	<Text>\nВолшебное зеркало.\n</Text>
+	<Text>\nНа полке нет ничего важного.\n</Text>
+	<Text>\n                  \n \n</Text>
+</Strings>

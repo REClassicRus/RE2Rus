@@ -1,0 +1,8 @@
+<Strings>
+	<Text>\n    оLЕФБ!!     \n</Text>
+	<Text>\n    RLШмFП     \n</Text>
+	<Text>6DШ-Ш4зш  \n  «0-о7кКйТБи   \n</Text>
+	<Text>\nЭту дверь не открыть!\n</Text>
+	<Text>\nВы открыли замок ключом\n</Text>
+	<Text>Вход на автостоянку.\nВорота опущены.\n is down.\n</Text>
+</Strings>

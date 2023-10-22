@@ -1,0 +1,34 @@
+<Strings>
+	<Text>\n.Е \n.q</Text>
+	<Text>\n.P</Text>
+	<Text>\n.Z</Text>
+	<Text>\n.I \n. \n.h</Text>
+	<Text>\n.a \n.u \n.Z</Text>
+	<Text>\n.X</Text>
+	<Text>\n.m \n.y</Text>
+	<Text>\n.5 \n.Б \n.З</Text>
+	<Text>\n.'</Text>
+	<Text>\n.k \n. \n.l</Text>
+	<Text>\n.З</Text>
+	<Text>\n.</Text>
+	<Text>\n.x</Text>
+	<Text>\n.Z</Text>
+	<Text>\n.V</Text>
+	<Text>\n.,</Text>
+	<Text>\n.Г</Text>
+	<Text>\n.[</Text>
+	<Text>\n.У</Text>
+	<Text>\n.H</Text>
+	<Text>\n.Q \n.c \n.</Text>
+	<Text>\n.8</Text>
+	<Text>\n.Б \n.p</Text>
+	<Text>\n.h</Text>
+	<Text>\n.Х</Text>
+	<Text>\n.З \n.B</Text>
+	<Text>\nРазличные трофеи. Ничего необычного.\n</Text>
+	<Text>Под картиной\nесть кнопка.  Нажмете ее?\nD</Text>
+	<Text>«Жертва умрет от\nкогтей ягуара.» «Змеей ее кровь\nземлю отравит.» «Из той земли\nорел возродится. » «Так будут открыты врата\nзлого рока.»</Text>
+	<Text>Все «камни» на\nместе.</Text>
+	<Text>Лифт. Похоже,\nведет вниз...</Text>
+	<Text>\n. open.» All the «Stones» are \nin place. An elevator. It appears\nto go down...  \n.:</Text>
+</Strings>

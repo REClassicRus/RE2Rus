@@ -1,0 +1,13 @@
+<Strings>
+	<Text>Картина, изображающая\nчеловека в экипаже.\n На колесе что-то\nнаписано.\n Свет на даму, короля\nи валета....\n и тогда экипаж\nпоедет.\n</Text>
+	<Text>\nКолеса нет.\n</Text>
+	<Text>\nВы можете зажечь огонь здесь.\n</Text>
+	<Text>\nУже и так горит.\n</Text>
+	<Text>Выгравирован\nномер 12.\n Откроете вентиль?\n\nD</Text>
+	<Text>Выгравирован\nномер 13.\n Откроете вентиль?\n\nD</Text>
+	<Text>Выгравирован\nномер 11.\n Откроете вентиль?\n\nD</Text>
+	<Text>Выгравирован\nномер 12.\n</Text>
+	<Text>Выгравирован\nномер 13.\n</Text>
+	<Text>Выгравирован\nномер 11.\n</Text>
+	<Text>\nПолная неразбериха.\ntched.\n The number 13 has been\netched.\n The number 11 has been\netched.\n \nIt's totally messed up.\n</Text>
+</Strings>

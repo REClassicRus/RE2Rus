@@ -1,0 +1,5 @@
+<Strings>
+	<Text>\nЗаперто...\n</Text>
+	<Text>\nВы открыли замок ключом\n</Text>
+	<Text>Вход на автостоянку.\nВорота опущены.\nutter is down.\n</Text>
+</Strings>

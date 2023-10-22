@@ -1,0 +1,20 @@
+<Strings>
+	<Text>\n</Text>
+	<Text>\nДверь намертво забита.  Похоже, здесь мне\nпройти не удастся.</Text>
+	<Text>Слишком узко, чтобы\nвзрослый мог пролезть.</Text>
+	<Text>Ничего из этих сведений\nне выглядит полезным.</Text>
+	<Text>\n \n</Text>
+	<Text>\n</Text>
+	<Text>\n</Text>
+	<Text>\n</Text>
+	<Text>\n.P</Text>
+	<Text>\n.L</Text>
+	<Text>\n.P</Text>
+	<Text>\n.X \n./</Text>
+	<Text>\n.j</Text>
+	<Text>\n.Л \n.z</Text>
+	<Text>\n.t</Text>
+	<Text>\n.·</Text>
+	<Text>\n.T</Text>
+	<Text>\n..z</Text>
+</Strings>

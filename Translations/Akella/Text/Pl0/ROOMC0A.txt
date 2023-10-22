@@ -1,0 +1,6 @@
+<Strings>
+	<Text>мDзћ≈?        \nd</Text>
+	<Text>\n   ∆ћ”ы∆‘Ѕ!</Text>
+	<Text>—пуститьс€ по лестнице?\nd</Text>
+	<Text>¬ы достигли точки\nневозвращени€!o return!</Text>
+</Strings>

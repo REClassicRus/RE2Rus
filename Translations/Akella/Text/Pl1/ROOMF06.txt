@@ -1,0 +1,22 @@
+<Strings>
+	<Text>\n     J“ѕЎ„!    \nn</Text>
+	<Text>\n    ≈ ь’?    \n‘</Text>
+	<Text>\n      -Kе      \nt   ќйезƒЅојиЎ     \n  |-мXй“Y’с“   \nс     ћмK’їЋ“јиЎ    \n    в¬Nо‘Ѕл!     \nт</Text>
+	<Text>\n    г“ ь¬ћи?    \n‘</Text>
+	<Text>\nшгиKојиЎ ншле!\nь</Text>
+	<Text>\n     ƒЅ г“     \n„ \n       !       \nt \n     7ћмKш“?     \nV</Text>
+	<Text>\n     7ћмKш“?     \nB</Text>
+	<Text>\n   |-! ь‘Ў?    \nj \n      |-!?      \nB</Text>
+	<Text>\n   ьSѕЎ≈Ћж7    \nL</Text>
+	<Text>Ў0оји    \nЋћ≈?            \nD</Text>
+	<Text>n</Text>
+	<Text>‘</Text>
+	<Text>t с т</Text>
+	<Text>‘</Text>
+	<Text>ь</Text>
+	<Text>„ t V</Text>
+	<Text>B</Text>
+	<Text>j B</Text>
+	<Text>L</Text>
+	<Text>Ёто переключатель от лифта.\nЌажмете его?\nD?\nD</Text>
+</Strings>

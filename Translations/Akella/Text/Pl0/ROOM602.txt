@@ -1,0 +1,18 @@
+<Strings>
+	<Text>\n.h \n.п \n.б</Text>
+	<Text>\n.е \n./</Text>
+	<Text>\n.,</Text>
+	<Text>\n.v \n.X \n.Б \n.Д</Text>
+	<Text>\n.A</Text>
+	<Text>\n.S \n.n \n.Б \n.X</Text>
+	<Text>\n.q \n.Z</Text>
+	<Text>\n.и</Text>
+	<Text>\n.X</Text>
+	<Text>Это лифт.\nЭнергии нет...</Text>
+	<Text>Лифт поехал.\nДвери сейчас не откроются!on.\nThe door won't open now!</Text>
+	<Text>«Устройство контроля\nдоступа.» На устройстве выгравированы\nорел и волк.</Text>
+	<Text>Медаль с волком\nна месте.</Text>
+	<Text>Медаль с орлом\nна месте.</Text>
+	<Text>Обе медали\nуже на месте.</Text>
+	<Text>Поток воды слишком быстрый,\nчтобы можно было преодолеть его.r me to cross.</Text>
+</Strings>

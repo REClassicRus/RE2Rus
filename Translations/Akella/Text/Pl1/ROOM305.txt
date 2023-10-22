@@ -1,0 +1,14 @@
+<Strings>
+	<Text>\n.0</Text>
+	<Text>\n.е</Text>
+	<Text>\n.</Text>
+	<Text>\n.e</Text>
+	<Text>\n.У</Text>
+	<Text>\n.а</Text>
+	<Text>\n. \n.X</Text>
+	<Text>\nФильтратор.</Text>
+	<Text>\nЭту дверь не открыть!</Text>
+	<Text>\n.·</Text>
+	<Text>\n.·</Text>
+	<Text>\n.· \n.·</Text>
+</Strings>

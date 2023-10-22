@@ -1,0 +1,53 @@
+<Strings>
+	<Text>\n\n"</Text>
+	<Text>\n\nя</Text>
+	<Text>\n\n</Text>
+	<Text>\n\np</Text>
+	<Text>\n\nJ</Text>
+	<Text>\n\nГ</Text>
+	<Text>\n\nF</Text>
+	<Text>\n\nj</Text>
+	<Text>\n\n·</Text>
+	<Text>\n\nL</Text>
+	<Text>\n\nj</Text>
+	<Text>\n\nГ</Text>
+	<Text>\n\n;</Text>
+	<Text>\n\nB</Text>
+	<Text>\n\nч</Text>
+	<Text>\n\nГ</Text>
+	<Text>\n\nб</Text>
+	<Text>\n\nб</Text>
+	<Text>\n\n</Text>
+	<Text>\n\n6</Text>
+	<Text>\n\nt</Text>
+	<Text>\n\nt</Text>
+	<Text>\n\n</Text>
+	<Text>\n\nt</Text>
+	<Text>\n\n'</Text>
+	<Text>\n\n</Text>
+	<Text>\n\n</Text>
+	<Text>\n\nj</Text>
+	<Text>\n\nO</Text>
+	<Text>\n\n!</Text>
+	<Text>Регулятор\nдавления масла и бак с маслом.\n</Text>
+	<Text>-Передатчик\nдавления масла- «Установите рычаг крана\nи вращайте его, \nчтобы опускать или поднимать мост.»</Text>
+	<Text>не могу перейти,\nпока мост не опущен.</Text>
+	<Text>\n\nT</Text>
+	<Text>\n\nх \n\nЧ</Text>
+	<Text>\n\nТ</Text>
+	<Text>\n\nS</Text>
+	<Text>\n\n</Text>
+	<Text>\n\nB \n\nщ</Text>
+	<Text>\n\n</Text>
+	<Text>\n\nй</Text>
+	<Text>\nАннет без сознания.\n</Text>
+	<Text>Здесь растет .синяя трава .\n  Используете ее?</Text>
+	<Text>Пока мне не нужно\nиспользовать это.</Text>
+	<Text>\nВы использовали .синюю траву .</Text>
+	<Text>\n\n  \n\n·</Text>
+	<Text>«Устройство контроля\nдоступа.» На устройстве выгравированы\nорел и волк.</Text>
+	<Text>Медаль с волком\nна месте.</Text>
+	<Text>Медаль с орлом\nна месте.</Text>
+	<Text>Обе медали\nуже на месте.</Text>
+	<Text>Поток воды слишком быстрый,\nчтобы можно было преодолеть его.r me to cross.</Text>
+</Strings>

@@ -1,0 +1,28 @@
+<Strings>
+	<Text>Нет времени заниматься\nэтим!</Text>
+	<Text>Нажать на кнопку?\nD</Text>
+	<Text>Подняться по лестнице?\ndthe ladder?\nd</Text>
+	<Text>\n .· \n .j</Text>
+	<Text>\n .j</Text>
+	<Text>\n .V \n .·</Text>
+	<Text>\n .L \n .L \n .л</Text>
+	<Text>\n .· \n .L</Text>
+	<Text>\n .V</Text>
+	<Text>\n .t</Text>
+	<Text>\n .· \n .[</Text>
+	<Text>\n .V \n .j \n .л</Text>
+	<Text>\n .j</Text>
+	<Text>\n .o \n .o</Text>
+	<Text>\n .б \n .j</Text>
+	<Text>\n .j</Text>
+	<Text>\n .V \n .j</Text>
+	<Text>\n .</Text>
+	<Text>\n .j  \n .t</Text>
+	<Text>\n .j</Text>
+	<Text>\n .Ч</Text>
+	<Text>\n .j</Text>
+	<Text>Труба еще не\nдоделана.</Text>
+	<Text>\nРешетка сломана. Между ее прутьев\nвзрослому не пролезть.</Text>
+	<Text>\n .j</Text>
+	<Text>Подняться по лестнице?\nd go up the ladder?\nd</Text>
+</Strings>

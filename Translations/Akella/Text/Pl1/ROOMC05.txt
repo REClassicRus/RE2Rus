@@ -1,0 +1,4 @@
+<Strings>
+	<Text>\n   ЖМУыЖФБ!</Text>
+	<Text>Вы достигли точки\nневозвращения!urn!</Text>
+</Strings>
