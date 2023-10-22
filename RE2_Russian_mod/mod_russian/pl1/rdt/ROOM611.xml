@@ -1,0 +1,27 @@
+﻿<Strings>
+    <Text>{scroll 2}Система реле, регулирующая\nэнергоснабжение лаборатории.{clear 0}{color 1}Главный предохранитель{color 0}\nбыл вынут, поэтому{clear 68}в некоторых помещениях\nнет энергии.</Text>
+    <Text>{scroll 2}Система реле, регулирующая\nэнергоснабжение лаборатории.</Text>
+    <Text>{scroll 2}Почему она так\nпоступила...!?</Text>
+    <Text>{scroll 2}\nЭто пистолет Ады.{clear 0}В магазине совсем\nне осталось патронов.</Text>
+    <Text>{scroll 2}\nНет времени, чтобы возвращаться!</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 45}{scroll 0}\n{scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 64}{scroll 0}\n{scroll 1}{timed 64}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 48}{scroll 0}\n{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 40}{scroll 0}\n{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 34}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 16}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 84}{scroll 0}\n{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 157}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 55}{scroll 0}\n{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 144}{scroll 0}\n{scroll 1}{timed 82}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 48}{scroll 0}\n{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 34}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 111}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 29}</Text>
+</Strings>

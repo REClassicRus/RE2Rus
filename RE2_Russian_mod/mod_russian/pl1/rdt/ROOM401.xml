@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 2}\nДвери склада заперты.\n</Text>
+    <Text>{scroll 2}\nДвери склада заперты.{clear 0}Использовать {color 1}отмычку{color 0}?\n{branch 0}</Text>
+    <Text>{scroll 2}Двери склада\nзаперты.{clear 0}Использовать\n{color 1}маленький ключ{color 0}?\n{branch 0}</Text>
+    <Text>{scroll 2}Спуститься по\nлестнице?\n{branch 0}</Text>
+    <Text>{scroll 2}Подняться по\nлестнице?\n{branch 0}</Text>
+    <Text>{scroll 2}Небольшое вентиляционное\nотверстие.{clear 0}Оно слишком маленькое,\nмне не пролезть.</Text>
+    <Text>{scroll 2}Выход на лестницу\nзаблокирован.</Text>
+    <Text>{scroll 2}\nМне не достать.\n</Text>
+    <Text>{scroll 2}Панель для отслеживания\nкачества сточных вод.</Text>
+    <Text>{scroll 2}\nВнутри ничего нет.\n</Text>
+    <Text>{scroll 2}\nСтарый шкафчик.\n</Text>
+    <Text>{scroll 2}Различные счётчики,\nрасставленные по порядку.</Text>
+    <Text>{scroll 2}Различные инструменты\nдля ремонта.</Text>
+    <Text>{scroll 2}Вы использовали\n{color 1}маленький ключ{color 0}.\n</Text>
+    <Text>{scroll 2}\nВы использовали {color 1}отмычку{color 0}.\n</Text>
+</Strings>

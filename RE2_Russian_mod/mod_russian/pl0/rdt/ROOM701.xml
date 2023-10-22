@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}Ячейка с высоко-\nвольтными штекерами.{clear 0}\nОткрыть её?\n{branch 32}</Text>
+    <Text>{scroll 2}\nЗдесь ничего полезного.</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 74}</Text>
+</Strings>

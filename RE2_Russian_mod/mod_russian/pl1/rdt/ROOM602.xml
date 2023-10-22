@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{scroll 1}{clear 68}{scroll 0}\n{scroll 1}{clear 100}{scroll 0}\n{scroll 1}{clear 34}{scroll 0}\n{scroll 1}{clear 60}{scroll 0}\n{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 62}{scroll 0}\n{scroll 1}{clear 62}{scroll 0}\n{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 24}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 82}{scroll 0}\n{scroll 1}{clear 52}{scroll 0}\n{scroll 1}{clear 88}{scroll 0}\n{scroll 1}{clear 46}{scroll 0}{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 29}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 47}{scroll 0}\n{scroll 1}{clear 74}{scroll 0}\n{scroll 1}{clear 44}{scroll 0}\n{scroll 1}{clear 44}{scroll 0}\n{scroll 1}{clear 26}{scroll 0}\n{scroll 1}{timed 26}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 77}{scroll 0}\n{scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 64}{scroll 0}\n{scroll 1}{timed 63}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 52}</Text>
+    <Text>{scroll 2}Лифт не работает.\nНет питания... </Text>
+    <Text>{scroll 2}Лифт поехал.\nСейчас двери не откроются!</Text>
+</Strings>

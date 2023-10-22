@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\nПодсумок надет.</Text>
+    <Text>{scroll 2}Здесь лежит автомат\nи подсумок.{clear 0}Подсумок позволяет\nнести больше предметов.{clear 0}Взять?\n          {branch 6}</Text>
+    <Text>{scroll 2}\nПристегнуть его?{branch 64}</Text>
+    <Text>{scroll 2}\nЗдесь лежит автомат.</Text>
+    <Text>{scroll 2}\nВы нашли подсумок.</Text>
+    <Text>{scroll 2}Видимо, мне стоит\nоставить это для Леона...</Text>
+    <Text>{scroll 2}Видимо, мне стоит\nоставить это для Клэр...</Text>
+</Strings>

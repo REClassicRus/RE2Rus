@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}Видимо, он уже\nдавно не работает.</Text>
+    <Text>{scroll 2}\nНичего особенного.</Text>
+    <Text>{scroll 2}Не похоже, что он\nчасто использовался.</Text>
+    <Text>{scroll 2}Слышны зловещие\nзавывания ветра...</Text>
+    <Text>{scroll 2}\nВнутри зомби! </Text>
+    <Text>{scroll 2}Идти туда\nслишком опасно! </Text>
+    <Text>{scroll 2}\nЭто старая пишущая машинка.{clear 0}Для сохранения мне нужна\n{color 1}печатная лента{color 0}.{clear 0}\nНо на это нет времени!</Text>
+</Strings>

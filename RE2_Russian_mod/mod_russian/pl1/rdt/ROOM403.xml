@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}Дверь на склад.\nОткрыть её?\n{branch 32}</Text>
+    <Text>{scroll 2}Спуститься\nпо лестнице?{branch 64}</Text>
+    <Text>{scroll 2}Подняться\nпо лестнице?{branch 64}</Text>
+    <Text>{scroll 2}Лампа на спирту.\nВ ней еще много топлива.</Text>
+    <Text>{scroll 2}Слишком темно,\nничего не видно.</Text>
+    <Text>{scroll 2}Панель для отслеживания\nкачества сточных вод.</Text>
+    <Text>{scroll 2}\nВнутри ничего нет.</Text>
+    <Text>{scroll 2}\nСтарый шкафчик.</Text>
+    <Text>{scroll 2}Различные счётчики,\nрасставленные по порядку.</Text>
+    <Text>{scroll 2}Различные инструменты\nдля ремонта.</Text>
+</Strings>

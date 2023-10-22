@@ -1,0 +1,37 @@
+﻿<Choices>
+    <Choice Base_x="194" Width="40">
+        <String>Да</String>
+        <String>Нет</String>
+    </Choice>
+    <Choice Base_x="82" Width="80">
+        <String>Лево</String>
+        <String>Право</String>
+        <String>Нет</String>
+    </Choice>
+    <Choice Base_x="98" Width="32">
+        <String>1</String>
+        <String>2</String>
+        <String>3</String>
+        <String>4</String>
+        <String>5</String>
+        <String>6</String>
+    </Choice>
+    <Choice Base_x="178" Width="48">
+        <String>Вверх</String>
+        <String>Вниз</String>
+    </Choice>
+    <Choice Base_x="74" Width="80">
+        <String>Лево</String>
+        <String>Право</String>
+        <String>Отмена</String>
+    </Choice>
+    <Choice Base_x="114" Width="48">
+        <String>Да</String>
+        <String>Нет</String>
+        <String>Оригинал</String>
+    </Choice>
+    <Choice Base_x="82" Width="144">
+        <String>Автомат</String>
+        <String>Подсумок</String>
+    </Choice>
+</Choices>

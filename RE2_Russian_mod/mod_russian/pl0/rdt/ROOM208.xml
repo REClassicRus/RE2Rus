@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}Здесь можно\nпроявить пленку.\n</Text>
+    <Text>{scroll 2}\nЗаперто.{clear 0}\nНеобходим особый ключ.</Text>
+    <Text>{scroll 2}Воспользоваться\n{color 1}особым ключём{color 0}?{branch 0}</Text>
+    <Text>{scroll 2}\nВы использовали {color 1}особый ключ{color 0}.</Text>
+    <Text>{scroll 2}Здесь два костюма,\nкоторые вам подойдут.{clear 0}Хотите сменить одежду?\n{branch 0}</Text>
+    <Text>{scroll 2}Какой из них вы хотели бы?\n{branch 4}</Text>
+    <Text>{scroll 2}Хотите сменить одежду?\n{branch 5}</Text>
+    <Text>{scroll 2}Здесь костюм,\nкоторый вам подойдет.{clear 0}Хотите одеть его?\n{branch 0}</Text>
+    <Text>{scroll 2}Здесь лежит...\nстарое оружие.</Text>
+    <Text>{scroll 2}Хотите вернуть свою\nстарую одежду?{branch 0}</Text>
+</Strings>

@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{scroll 2}\n\n</Text>
+    <Text>{scroll 2}\n\n</Text>
+    <Text>{scroll 2}\n\n</Text>
+    <Text>{scroll 2}Замок сломан и\nне открывается.\n</Text>
+    <Text>{scroll 2}\nЗамок сломан.{clear 0}Хотите использовать\n{color 1}отмычку{color 0}?{branch 0}</Text>
+    <Text>\n\n</Text>
+    <Text>{scroll 2}\nВы использовали {color 1}отмычку{color 0}.\n</Text>
+    <Text>{scroll 2}Всё, что мне нужно,\nчтобы разрушить стену,{clear 0}блокируемую вертолётом,\nэто {color 1}детонатор{color 0}...</Text>
+</Strings>

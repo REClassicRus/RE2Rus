@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}\nРазрушено изнутри...{scroll 1}</Text>
+    <Text>{scroll 2}Похоже на какой-то\nнеудачный эксперимент...{scroll 1}</Text>
+    <Text>{scroll 2}\nЕго живот разорван.</Text>
+    <Text>{scroll 2}Выглядит как контейнер\nдля перевозки каких-то{clear 0}важных химикатов,\nно внутри ничего нет...{scroll 1}</Text>
+    <Text>{scroll 2}\nВыглядит сломанным...{scroll 1}</Text>
+</Strings>

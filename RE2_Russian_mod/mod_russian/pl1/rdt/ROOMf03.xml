@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 0}{scroll 2}{timed 74}</Text>
+    <Text>{scroll 0}{scroll 2}{timed 107}</Text>
+    <Text>{scroll 0}{scroll 2}{clear 80}{scroll 0}</Text>
+    <Text>{scroll 0}{scroll 2}{timed 107}</Text>
+    <Text>{scroll 0}{scroll 2}{timed 147}</Text>
+    <Text>{scroll 0}{scroll 2}{clear 110}{scroll 0}{scroll 2}{clear 80}{scroll 0}{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}{scroll 2}{timed 30}</Text>
+    <Text>{scroll 0}{scroll 2}{clear 70}{scroll 0}{scroll 2}{timed 30}</Text>
+    <Text>{scroll 0}{scroll 2}{timed 40}</Text>
+    <Text>{scroll 2}Кнопка управления лифтом.\nНажать её?{branch 32}</Text>
+</Strings>

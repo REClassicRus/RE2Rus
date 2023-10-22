@@ -1,0 +1,25 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{scroll 1}{clear 80}{scroll 0}\n{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 50}{scroll 0}\n{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 40}{scroll 0}\n{scroll 1}{clear 40}{scroll 0}\n{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 60}{scroll 0}\n{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 60}{scroll 0}\n{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 50}{scroll 0}\n{scroll 1}{clear 70}{scroll 0}\n{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 75}{scroll 0}\n{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 120}{scroll 0}\n{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 50}{scroll 0}\n{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 80}{scroll 0}\n{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 70}{scroll 0}\n{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 80}{scroll 0}\n{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 70}</Text>
+    <Text>{scroll 2}Водопроводная труба\nещё не достроена.</Text>
+    <Text>{scroll 2}\nРешетка сломана.{clear 0}Мне здесь\nне пролезть.</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 70}</Text>
+    <Text>{scroll 2}Подняться\nпо лестнице?{branch 64}</Text>
+</Strings>

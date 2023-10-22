@@ -1,0 +1,3 @@
+﻿<Strings>
+    <Text>{scroll 2}Люк открыт.\nВниз ведет лестница.{clear 0}\nСпуститься вниз?{branch 0}</Text>
+</Strings>

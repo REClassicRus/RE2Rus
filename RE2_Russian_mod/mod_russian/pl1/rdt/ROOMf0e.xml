@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}Подняться\nпо лестнице?{branch 64}</Text>
+    <Text>{scroll 2}Спуститься\nпо лестнице?\n{branch 64}</Text>
+</Strings>

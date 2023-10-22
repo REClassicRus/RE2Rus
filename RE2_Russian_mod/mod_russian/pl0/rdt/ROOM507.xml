@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}\nВключить монитор?{branch 32}</Text>
+    <Text>{scroll 2}На мониторе\nничего нет.</Text>
+</Strings>

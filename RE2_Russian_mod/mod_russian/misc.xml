@@ -1,0 +1,46 @@
+<Strings>
+	<!--options, input screen -->
+	<Text>Сохранить</Text>
+	<Text>Выход</Text>
+	<Text>Выйти</Text>
+	<Text>По умолчанию</Text>
+	<Text>Карта</Text>
+	<Text>Параметры</Text>
+	<Text>Статус</Text>
+	<Text>Бег/Отмена</Text>
+	<Text>Огонь/Использов.</Text>
+	<Text>Приготовиться</Text>
+	<Text>Поворот направо</Text>
+	<Text>Поворот налево</Text>
+	<Text>Назад</Text>
+	<Text>Вперед</Text>
+	<!--options, audio settings -->
+	<Text>Режим</Text>
+	<Text>Моно</Text>
+	<Text>Стерео</Text>
+	<Text>Качество</Text>
+	<Text>Высокое</Text>
+	<Text>Среднее</Text>
+	<Text>Низкое</Text>
+	<Text>Громкость музыки</Text>
+	<Text>Громкость эффектов</Text>
+	<!--options, audio settings -->
+	<Text>Выход</Text>
+	<Text>Новое сохранение</Text>
+	<Text>Перезаписать?</Text>
+	<Text> Да</Text>
+	<Text>Обновить</Text>
+	<Text> Нет</Text>
+	<Text>Загрузка</Text>
+	<Text>Не сохраняться?</Text>
+	<Text>Да</Text>
+	<Text>Нет</Text>
+	<Text>Файл</Text>
+	<Text>Не загружать</Text>
+	<Text>Не сохранять</Text>
+	<Text>Сохранение</Text>
+	<!-- pause -->
+	<Text>@Пауза</Text>
+	<!-- timers -->
+	<Text>@%2d^%d%d=%d%d</Text>
+</Strings>

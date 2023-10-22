@@ -1,0 +1,26 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 35}{scroll 0}\n{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 59}{scroll 0}\n{scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 35}{scroll 0}\n{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 24}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}{scroll 1}{clear 32}{scroll 0}\n{scroll 1}{timed 33}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 70}</Text>
+    <Text>{scroll 2}Беспорядок. Похоже,\nкто-то что-то искал...</Text>
+    <Text>{scroll 2}На столе беспорядок.\nПохоже, его владелец{clear 0}не отличается\nаккуратностью.</Text>
+    <Text>{scroll 2}\n{clear 0}\n</Text>
+    <Text>{scroll 2}Фотография молодого человека.\nНаверно, это её парень...</Text>
+    <Text>{scroll 2}Похоже, это точная\nкопия пистолета.{clear 0}Видимо, владелец,\nувлекается оружием.</Text>
+    <Text>{scroll 2}Здесь стоят запечатанные\nкартонные коробки.{clear 0}Похоже на\nстол новичка.</Text>
+    <Text>{scroll 2}На полке нет\nничего полезного.</Text>
+    <Text>{scroll 2}Здесь стоят\nразличные трофеи.{clear 0}\nНа одном из них надпись:{clear 0}Победитель соревнований\nпо стрельбе в этом году:{clear 0}\nКрис Редфилд.</Text>
+    <Text>{scroll 2}Ничего подозрительного\nили необычного.</Text>
+    <Text>{scroll 2}\n{clear 0}\n</Text>
+    <Text>{scroll 2}Несколько папок\nсо старыми делами.{clear 0}\nНичего полезного.</Text>
+    <Text>{scroll 2}Фотография\nсотрудников “ＳＴＡＲＳ"</Text>
+    <Text>{scroll 2}Здесь различное\nоборудование.{clear 0}Должно быть, здесь\nони получали информацию.</Text>
+    <Text>{scroll 2}\n</Text>
+</Strings>

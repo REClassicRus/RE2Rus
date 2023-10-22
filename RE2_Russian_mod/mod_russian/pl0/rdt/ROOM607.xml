@@ -1,0 +1,23 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{scroll 1}{timed 25}</Text>
+    <Text>{scroll 0}\n{scroll 0}{clear 50}{scroll 0}\n{scroll 0}{clear 70}{scroll 0}\n{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}\n{scroll 0}{clear 100}{scroll 0}\n{scroll 1}{timed 66}</Text>
+    <Text>{scroll 0}\n{scroll 0}{clear 40}{scroll 0}\n{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n{scroll 0}{clear 95}{scroll 0}\n{scroll 0}{clear 82}{scroll 0}\n{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n{scroll 0}{clear 90}{scroll 0}\n{scroll 0}{clear 40}{scroll 0}\n{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n{scroll 0}{clear 60}{scroll 0}\n{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}\n{scroll 0}{clear 68}{scroll 0}\n{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 18}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 57}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\n{scroll 0}{clear 50}{scroll 0}\n{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 32}</Text>
+    <Text>{scroll 0}\n{scroll 0}{clear 75}{scroll 0}\n{scroll 0}{clear 95}{scroll 0}\n{scroll 0}{clear 78}{scroll 0}\n{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\n{scroll 0}{clear 65}{scroll 0}\n{scroll 1}{timed 66}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\n{scroll 0}{clear 72}{scroll 0}\n{scroll 1}{timed 62}</Text>
+    <Text>{scroll 2}Инструкции по\nтехнике безопасности.</Text>
+    <Text>{scroll 2}\nГде же Ада?</Text>
+    <Text>{scroll 2}\nГде же Шерри?</Text>
+</Strings>

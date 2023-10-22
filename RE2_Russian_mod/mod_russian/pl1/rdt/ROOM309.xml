@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}Нет времени заниматься\nэтим!</Text>
+    <Text>{scroll 2}\nНажать на кнопку?{branch 32}</Text>
+    <Text>{scroll 2}Подняться\nпо лестнице?{branch 64}</Text>
+</Strings>

@@ -1,0 +1,21 @@
+﻿<Strings>
+    <Text>{scroll 2}{color 1}Карта полицейского участка{color 0}.\nВзять её?\n{branch 0}</Text>
+    <Text>{scroll 2}\n\n</Text>
+    <Text>{scroll 2}\n{clear 0}\n\n</Text>
+    <Text>{scroll 2}\n\n</Text>
+    <Text>{scroll 2}\n\n</Text>
+    <Text>{scroll 2}\n\n</Text>
+    <Text>{scroll 2}\n\n</Text>
+    <Text>{scroll 2}\n\n</Text>
+    <Text>{scroll 2}\n{clear 0}\n\n</Text>
+    <Text>{scroll 2}\n\n</Text>
+    <Text>{scroll 2}\n\n</Text>
+    <Text>{scroll 2}\n\n</Text>
+    <Text>{scroll 2}\n\n</Text>
+    <Text>{scroll 2}Цифровая клавиатура.{clear 0}Первая цифра кода?\n{branch 2}</Text>
+    <Text>{scroll 2}Вторая цифра кода?\n{branch 2}</Text>
+    <Text>{scroll 2}Третья цифра кода?\n{branch 2}</Text>
+    <Text>{scroll 2}Четвертая цифра кода?\n{branch 2}</Text>
+    <Text>{scroll 2}Вы взяли\n{color 1}карту полицейского участка{color 0}.\n</Text>
+    <Text>{scroll 2}\nДверь не открывается!\n</Text>
+</Strings>

@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{scroll 2}Здесь кнопка.\nНажать её?{branch 0}</Text>
+    <Text>{scroll 2}Кнопка, позволяющая\nдвигать шкаф вправо и влево.{clear 0}Нажать её?\n{branch 1}</Text>
+    <Text>{scroll 2}Бронзовая пластина\nс изображением.{clear 0}{clear 0}{timed 1}</Text>
+    <Text>{scroll 2}Среди этих книг нет\nничего полезного.</Text>
+    <Text>{scroll 2}Большая часть книг посвящена\nразличным исследованиям.</Text>
+    <Text>{scroll 2}На полке много\nкниг по химии.</Text>
+    <Text>{scroll 2}Документация\nкомпании “Амбрелла".</Text>
+    <Text>{scroll 2}\nДверь не открывается! </Text>
+</Strings>

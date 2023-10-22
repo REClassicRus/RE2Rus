@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}Здесь кнопка.\nНажать её?\n{branch 0}</Text>
+    <Text>{scroll 2}Никакого эффекта.\nНет электричества.\n</Text>
+    <Text>\nЗамок уже открыт.\n</Text>
+    <Text>\nДверь надежна закрыта.\n</Text>
+    <Text>Заперто\nс другой стороны.\n</Text>
+</Strings>

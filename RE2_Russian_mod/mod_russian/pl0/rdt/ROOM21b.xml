@@ -1,0 +1,34 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{scroll 1}{clear 92}{scroll 0}\n{scroll 1}{timed 77}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 37}{scroll 0}\n{scroll 1}{clear 114}{scroll 0}\n{scroll 1}{timed 68}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 61}{scroll 0}\n{scroll 1}{clear 81}{scroll 0}\n{scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 73}{scroll 0}\n{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 17}{scroll 0}\n{scroll 1}{clear 88}{scroll 0}\n{scroll 1}{timed 94}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 71}{scroll 0}\n{scroll 1}{clear 96}{scroll 0}\n{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 60}{scroll 0}\n{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 28}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 24}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 53}{scroll 0}\n{scroll 1}{timed 53}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 45}{scroll 0}\n{scroll 1}{clear 63}{scroll 0}\n{scroll 1}{clear 56}{scroll 0}\n{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 20}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 88}{scroll 0}\n{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 68}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 47}{scroll 0}\n{scroll 1}{clear 47}{scroll 0}\n{scroll 1}{timed 40}</Text>
+    <Text>{scroll 2}\nРазличные трофеи.{clear 0}\nНичего необычного.</Text>
+    <Text>{scroll 2}Под картиной есть кнопка.\nНажать её?\n{branch 32}</Text>
+    <Text>{scroll 2}“Жертва умрёт от\nкогтей ягуара."{clear 0}“Змеёй её кровь\nземлю отравит."{clear 0}“Из той земли\nорел возродится."{clear 0}“Так будут открыты врата\nв преисподнюю."</Text>
+    <Text>{scroll 2}\nВсе “Камни" на месте. </Text>
+    <Text>{scroll 2}Лифт. Похоже он\nведёт вниз...</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 22}</Text>
+</Strings>

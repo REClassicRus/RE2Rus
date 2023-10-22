@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}\nДверь не открывается!\n</Text>
+    <Text>{scroll 2}\nВы использовали ключ сарая.\n</Text>
+    <Text>{scroll 2}\nВсе в порядке.\n</Text>
+    <Text>{scroll 2}Вентиляционная шахта.\nОтверстие слишком узкое\n{clear 0}\nдля взрослого человека.\n</Text>
+    <Text>{scroll 2}\nОфис ＳＴＡＲＳ\n</Text>
+</Strings>

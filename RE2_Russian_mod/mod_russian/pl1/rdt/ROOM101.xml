@@ -1,0 +1,23 @@
+﻿<Strings>
+    <Text>{scroll 0}\n {scroll 1}{timed 17}</Text>
+    <Text>{scroll 0} {scroll 1}{timed 62}</Text>
+    <Text>{scroll 0} {scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 36}</Text>
+    <Text>{scroll 0} {scroll 1}{timed 47}</Text>
+    <Text>{scroll 0} {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0} {scroll 1}{timed 22}</Text>
+    <Text>{scroll 0} {scroll 1}{clear 54}{scroll 0} {scroll 1}{clear 80}{scroll 0} {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0} {scroll 1}{clear 63}{scroll 0} {scroll 1}{timed 63}</Text>
+    <Text>{scroll 0} {scroll 1}{timed 48}</Text>
+    <Text>{scroll 0} {scroll 1}{timed 58}</Text>
+    <Text>{scroll 0} {scroll 1}{clear 58}{scroll 0} {scroll 1}{clear 64}{scroll 0} {scroll 1}{timed 64}</Text>
+    <Text>{scroll 0} {scroll 1}{clear 55}{scroll 0} {scroll 1}{clear 53}{scroll 0} {scroll 1}{timed 59}</Text>
+    <Text>{scroll 2}Газета за 18 сентября.\nНичего важного.</Text>
+    <Text>{scroll 2}Витрина разбита,\nвнутри ничего полезного. </Text>
+    <Text>{scroll 2}\nНичего полезного.</Text>
+    <Text>{scroll 2}\nМного бесполезных вещей.</Text>
+    <Text>{scroll 2}На дорогах\nбольше не безопасно. </Text>
+    <Text>{scroll 2}\nОн больше, не дышит. </Text>
+    <Text>{scroll 2}Коробки для оружия и\nдругие принадлежности.</Text>
+    <Text>{scroll 2}\n</Text>
+</Strings>

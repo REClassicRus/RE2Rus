@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 80}</Text>
+    <Text>{scroll 2}\n\n</Text>
+</Strings>

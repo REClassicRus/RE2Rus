@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}Можно открыть, если найти\nподходящий ключ.</Text>
+    <Text>{scroll 2}\nНадежно заперто?</Text>
+    <Text>{scroll 2}\nРазличные химикаты.{clear 0}Интересно, какие экспери-\nменты здесь проводились?</Text>
+    <Text>{scroll 2}Нажать\nна кнопку?{branch 64}</Text>
+    <Text>{scroll 2}\nВакцина синтезирована.</Text>
+    <Text>{scroll 2}\nНикакого эффекта.</Text>
+    <Text>{scroll 2}Использовать?\n{branch 64}</Text>
+    <Text>{scroll 2}Медицинское оборудование\nдля разработки вакцин.</Text>
+    <Text>{scroll 2}Здесь больше\nнечего делать.</Text>
+    <Text>{scroll 2}\nОборудование\nдля синтеза вакцины.{clear 0}Крышка открыта.\n{color 1}Базовую вакцину{color 0} нужно{clear 0}\nпоместить внутрь.</Text>
+    <Text>{scroll 2}Использовать {color 1}ключ от ящика\nс оружием{color 0}?{branch 64}</Text>
+</Strings>

@@ -1,0 +1,45 @@
+﻿<Strings>
+    <Text>{scroll 0}\nОн молчит.\n{scroll 2}{timed 60}</Text>
+    <Text>{scroll 2}\nСтрашная смерть... \n</Text>
+    <Text>{scroll 2}\nТело разорвано на части.\n{clear 0}Кажется, что-то\nвырвалось из него...\n</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 100}{scroll 0}\n\n{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 39}{scroll 0}\n\n{scroll 2}{clear 80}{scroll 0}\n\n{scroll 2}{timed 95}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 42}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 100}{scroll 0}\n\n{scroll 2}{clear 96}{scroll 0}\n\n{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 67}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 38}{scroll 0}\n\n{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 90}{scroll 0}\n\n{scroll 2}{clear 50}{scroll 0}\n\n{scroll 2}{timed 30}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 67}{scroll 0}\n\n{scroll 2}{timed 67}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 50}{scroll 0}\n\n{scroll 2}{timed 33}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 33}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 50}{scroll 0}\n\n{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 50}{scroll 0}\n\n{scroll 2}{timed 68}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 33}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 50}{scroll 0}\n\n{scroll 2}{timed 33}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 83}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 108}{scroll 0}\n\n{scroll 2}{clear 67}{scroll 0}\n\n{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 25}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 83}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 83}{scroll 0}\n\n{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 25}</Text>
+    <Text>{scroll 0}{scroll 2}{clear 60}{scroll 0}\n\n{scroll 2}{clear 75}{scroll 0}\n\n{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}{scroll 2}{clear 33}{scroll 0}\n\n{scroll 2}{timed 150}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 42}</Text>
+    <Text>{scroll 0}{scroll 2}{clear 70}{scroll 0}\n\n{scroll 2}{timed 120}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 50}{scroll 0}\n\n{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 83}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 42}{scroll 0}\n\n{scroll 2}{timed 67}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 38}{scroll 0}\n\n{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 42}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 83}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 92}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 83}{scroll 0}\n\n{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 50}{scroll 0}\n\n{scroll 2}{clear 43}{scroll 0}\n\n\n{scroll 2}{timed 75}</Text>
+</Strings>

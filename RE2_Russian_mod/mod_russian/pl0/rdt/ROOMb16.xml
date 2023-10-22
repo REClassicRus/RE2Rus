@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}Здесь растёт {color 1}синяя трава{color 0}.\nИспользовать её?{branch 0}</Text>
+    <Text>{scroll 2}Сейчас мне это\nне нужно.</Text>
+    <Text>{scroll 2}\nВы использовали {color 1}синюю траву{color 0}.</Text>
+</Strings>

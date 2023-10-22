@@ -1,0 +1,18 @@
+﻿<Strings>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 22}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 150}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 92}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 22}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 77}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 18}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 70}{scroll 0}\n{scroll 2}{timed 72}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 30}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 72}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 60}</Text>
+    <Text>{scroll 2}Похоже, что сюда\nсвозится мусор{clear 0}\nсо всего города.</Text>
+    <Text>{scroll 0}\n{scroll 2}</Text>
+    <Text>{scroll 2}Подняться\nпо лестнице?{branch 0}</Text>
+</Strings>

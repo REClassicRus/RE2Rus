@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}Изображение человека\nна колеснице.\n{clear 0}{scroll 2}Под колесом\nчто-то написано.\n{clear 0}{scroll 2}Свет на даму,\nкороля и валета...\n{scroll 2}{clear 0}{scroll 2}и тогда колесница\nпоедет.\n{scroll 2}</Text>
+    <Text>{scroll 2}\nКолеса нет.\n</Text>
+    <Text>{scroll 2}Здесь можно\nразжечь огонь.\n</Text>
+    <Text>{scroll 2}Огонь уже зажжён.\n</Text>
+    <Text>{scroll 2}Выгравирован\nномер 12.\n{clear 0}\nОткрыть вентиль?\n{branch 32}</Text>
+    <Text>{scroll 2}Выгравирован\nномер 13.\n{clear 0}\nОткрыть вентиль?\n{branch 32}</Text>
+    <Text>{scroll 2}Выгравирован\nномер 11.\n{clear 0}\nОткрыть вентиль?\n{branch 32}</Text>
+    <Text>{scroll 2}Выгравирован\nномер 12.\n</Text>
+    <Text>{scroll 2}Выгравирован\nномер 13.\n</Text>
+    <Text>{scroll 2}Выгравирован\nномер 11.\n</Text>
+    <Text>{scroll 2}Здесь всё\nразбросано.\n</Text>
+</Strings>

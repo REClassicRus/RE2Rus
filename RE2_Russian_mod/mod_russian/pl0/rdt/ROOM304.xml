@@ -1,0 +1,14 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{scroll 1}{timed 12}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 62}{scroll 0}\n{scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 48}{scroll 0}\n{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 53}{scroll 0}\n{scroll 1}{timed 53}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 54}{scroll 0}\n{scroll 1}{timed 53}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 28}{scroll 0}\n{scroll 1}{timed 52}</Text>
+    <Text>{scroll 2}\nУстройство для фильтрации.</Text>
+    <Text>{scroll 2}\nДверь не открывается!</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 48}</Text>
+</Strings>

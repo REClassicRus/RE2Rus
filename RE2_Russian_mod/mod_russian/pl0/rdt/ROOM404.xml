@@ -1,0 +1,16 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{scroll 1}{timed 32}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 32}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 90}{scroll 0}\n{scroll 1}{timed 98}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 94}{scroll 0}\n{scroll 1}{clear 92}{scroll 0}\n{scroll 1}{timed 101}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 27}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 40}{scroll 0}\n{scroll 1}{timed 64}</Text>
+    <Text>{scroll 2}Он потерял сознание\nиз-за шока от огнестрельного ранения.{clear 0}Кажется, его рана\nне смертельная...</Text>
+    <Text>{scroll 2}\nМне нужно поймать\nэту женщину!</Text>
+    <Text>{scroll 2}Здесь {color 1}карта канализации{color 0}.\nВзять её?{branch 64}</Text>
+    <Text>{scroll 2}\nВы взяли {color 1}карту канализации{color 0}.</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 36}{scroll 0}\n{scroll 1}{timed 32}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 12}</Text>
+</Strings>

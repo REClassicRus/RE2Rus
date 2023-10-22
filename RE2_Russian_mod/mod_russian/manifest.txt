@@ -1,0 +1,3 @@
+[MOD]
+Name = Resident Evil 2: SourceNext - Русская версия
+Title = Resident Evil 2: SourceNext: Русская версия

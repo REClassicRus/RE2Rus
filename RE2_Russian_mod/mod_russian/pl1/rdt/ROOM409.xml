@@ -1,0 +1,44 @@
+﻿<Strings>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 30}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 85}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 20}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 30}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 65}{scroll 0}\n\n{scroll 2}{timed 65}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 65}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 80}{scroll 0}\n\n{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 60}{scroll 0}\n\n{scroll 2}{timed 30}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 138}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 138}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 32}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 105}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\n\n\n{scroll 2}{clear 75}{scroll 0}\n\n{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 85}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 79}{scroll 0}\n\n{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 64}{scroll 0}\n\n{scroll 2}{timed 65}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 20}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 78}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 83}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 60}</Text>
+    <Text>{scroll 2}Панель для отслеживания\nколичества отходов.\n</Text>
+    <Text>{scroll 2}Тело сотрудника\nканализационной службы.\n</Text>
+    <Text>{scroll 2}Наверху лестницы есть\nвентиляционное отверстие.{clear 0}Вентилятор вращается\nслишком быстро,{clear 0}чтобы можно\nбыло пролезть.</Text>
+    <Text>“Регулятор вентиляции"{clear 0}Можно ненадолго остановить\nвращение лопастей.</Text>
+    <Text>Перейти не получится,\nмост не опущен.</Text>
+    <Text>\nОн держит что-то.{clear 0}Сейчас мне это\nне нужно.\n</Text>
+    <Text>Похоже на\nкакую-то книгу...{clear 0}Сейчас мне это не\nнужно.\n</Text>
+    <Text>{scroll 2}Спуститься\nпо лестнице?{branch 0}</Text>
+    <Text>{scroll 2}Наверху лестницы есть\nвентиляционное отверстие.{clear 0}\nПодняться по ней?{branch 0}</Text>
+</Strings>

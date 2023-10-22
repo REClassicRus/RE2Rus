@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text>{scroll 2}\n </Text>
+    <Text>{scroll 2}Дверь намертво\nзабита.{clear 0}Похоже, здесь\nне пройти.</Text>
+    <Text>{scroll 2}Слишком узко, чтобы\nвзрослый мог пролезть.</Text>
+    <Text>{scroll 2}Эти документы не\nвыглядят полезными.</Text>
+    <Text>{scroll 2}\n{clear 0}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 41}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 52}{scroll 0}\n{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 48}{scroll 0}{scroll 1}{clear 49}{scroll 0}{scroll 1}{clear 43}{scroll 0}{scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}{scroll 1}{clear 40}{scroll 0}{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}{scroll 1}{clear 24}{scroll 0}{scroll 1}{timed 24}</Text>
+    <Text>{scroll 0}{scroll 1}{clear 43}{scroll 0}{scroll 1}{timed 43}</Text>
+</Strings>

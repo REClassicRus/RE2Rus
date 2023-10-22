@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}\nЗаперто...\n</Text>
+    <Text>{scroll 2}\nВ приёмной есть офис.\n</Text>
+    <Text>{scroll 2}\nНичего подозрительного.\n</Text>
+    <Text>{scroll 2}\nНадпись:\n{clear 0}“28 сентября ночная смена\nДжорджа Скотта."\n</Text>
+    <Text>{scroll 2}\nНичего необычного\n</Text>
+    <Text>{scroll 2}Внутри нет\nничего полезного.\n</Text>
+    <Text>{scroll 2}\nДверь не открывается!\n</Text>
+</Strings>

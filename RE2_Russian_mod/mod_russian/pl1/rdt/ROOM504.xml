@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}В стене была проделана\nогромная дыра.</Text>
+    <Text>{scroll 2}Похоже на панель\nуправления лифтом.{clear 0}Здесь есть\nзамочная скважина...</Text>
+    <Text>{scroll 2}Нажать на\nкнопку питания?{branch 32}</Text>
+    <Text>{scroll 2}Здесь {color 1}карта завода{color 0}.\nВзять её?\n{branch 64}</Text>
+    <Text>{scroll 2}\nВы взяли {color 1}карту завода{color 0}.</Text>
+</Strings>

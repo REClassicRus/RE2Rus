@@ -1,0 +1,21 @@
+﻿<Strings>
+    <Text>{scroll 2}Похоже на центральную\nсистему управления...{clear 0}Все кнопки\nзаблокированы.</Text>
+    <Text>{scroll 2}Активирована система\nсамоуничтожения...</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 20}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 12}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 80}{scroll 0}\n{scroll 1}{timed 69}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 135}{scroll 0}\n{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 34}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 30}{scroll 0}\n{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 28}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 53}{scroll 0}\n{scroll 1}{timed 53}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 22}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 76}{scroll 0}\n{scroll 1}{clear 43}{scroll 0}\n{scroll 1}{clear 43}{scroll 0}\n{scroll 1}{clear 57}{scroll 0}\n{scroll 1}{clear 56}{scroll 0}\n{scroll 1}{timed 57}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 88}{scroll 0}\n{scroll 1}{timed 26}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 76}{scroll 0}\n{scroll 1}{clear 43}{scroll 0}\n{scroll 1}{clear 43}{scroll 0}\n{scroll 1}{clear 57}{scroll 0}\n{scroll 1}{clear 56}{scroll 0}\n{scroll 1}{timed 57}</Text>
+    <Text>{scroll 2}\nШерри здесь нет.</Text>
+</Strings>

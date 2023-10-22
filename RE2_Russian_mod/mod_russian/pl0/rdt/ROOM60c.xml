@@ -1,0 +1,26 @@
+﻿<Strings>
+    <Text>{scroll 2}Здесь кнопка.\nНажать её?{branch 0}</Text>
+    <Text>{scroll 2}Никакого эффекта.\nНет электричества.</Text>
+    <Text>{scroll 2}\nЗамок уже открыт.</Text>
+    <Text>{scroll 2}Заперто наглухо. Слева\nесть панель управления.</Text>
+    <Text>{scroll 2}“Для входа необходимо\nдвое или больше сотрудников."</Text>
+    <Text>{scroll 2}“Начало идентификации\nотпечатка пальца."{clear 0}\nПродолжить?{branch 0}</Text>
+    <Text>{scroll 2}\n“Не найдено."</Text>
+    <Text>{scroll 2}\n“Отпечаток пальца проверен"</Text>
+    <Text>{scroll 2}“Начало повторной\nидентификации отпечатка пальца."{clear 0}\nПродолжить?{branch 0}</Text>
+    <Text>{scroll 2}\n“Требуется второй сотрудник."{clear 0}Нужен ещё кто-то,\nчтобы открыть эту дверь.</Text>
+    <Text>{scroll 2}“Отпечаток пальца распознан.\nДоступ разрешен."</Text>
+    <Text>{scroll 2}\nЗамок уже открыт.</Text>
+    <Text>{scroll 2}\nДверь надёжна закрыта.</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 46}{scroll 0}\n{scroll 1}{clear 73}{scroll 0}\n{scroll 1}{clear 73}{scroll 0}\n{scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 94}{scroll 0}\n{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 24}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 82}{scroll 0}\n{scroll 1}{clear 87}{scroll 0}\n{scroll 1}{clear 83}{scroll 0}\n{scroll 1}{timed 83}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 29}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 47}{scroll 0}\n{scroll 1}{clear 74}{scroll 0}\n{scroll 1}{clear 78}{scroll 0}\n{scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 67}{scroll 0}\n{scroll 1}{timed 64}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 64}{scroll 0}\n{scroll 1}{timed 63}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 74}{scroll 0}\n{scroll 1}{clear 70}{scroll 0}\n{scroll 1}{clear 74}{scroll 0}\n{scroll 1}{clear 74}{scroll 0}\n{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 40}</Text>
+</Strings>

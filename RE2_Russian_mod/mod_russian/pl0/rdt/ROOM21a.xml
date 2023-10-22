@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}Клетка может сломаться\nв любой момент!</Text>
+    <Text>{scroll 2}\nЛюк плотно закрыт.{clear 0}Возможно, я смогу открыть его,\nс помощью специального{clear 0}\nинструмента...</Text>
+    <Text>{scroll 2}\n{scroll 2}Спуститься\nпо лестнице?{branch 64}</Text>
+    <Text>{scroll 2}Спуститься\nпо лестнице?{branch 64}</Text>
+    <Text>{scroll 2}Люк плотно закрыт.\nМне его не поднять.</Text>
+</Strings>

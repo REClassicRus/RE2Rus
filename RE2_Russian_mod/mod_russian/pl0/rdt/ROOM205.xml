@@ -1,0 +1,11 @@
+﻿<Strings>
+    <Text>{scroll 2}\nОкно заколочено.</Text>
+    <Text>{scroll 2}{scroll 2}{clear 0}</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Похоже, эту баррикаду\nделали в спешке.\n</Text>
+    <Text>{scroll 2}\nЗдесь что-то написано:\n{clear 0}“Пожалуйста, не шумите\nво время проведения встреч!"\n</Text>
+    <Text>{scroll 2}\nНичего необычного.\n</Text>
+    <Text>{scroll 2}Вентиляционная шахта.\nВнутри темно.\n</Text>
+    <Text>{scroll 2}\nДверь не открывается!\n</Text>
+    <Text>{scroll 2}\n                  \n</Text>
+</Strings>
