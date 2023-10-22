@@ -1,0 +1,5 @@
+<Strings>
+	<Text>A water pressure valve.\nIt reads: «Excessive pressure may\nrupture the water tank.» </Text>
+	<Text>\nThe valve is wide open. </Text>
+	<Text>The helicopter is\na complete wreck.</Text>
+</Strings>

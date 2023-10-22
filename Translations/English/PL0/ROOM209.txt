@@ -1,0 +1,9 @@
+<Strings>
+	<Text>\n      M8\n </Text>
+	<Text>  u||;\n  8\n </Text>
+	<Text>\n |\n </Text>
+	<Text>The lock is broken and\ncan't be opened.\n </Text>
+	<Text>\nThe lock is broken. Will you use the .lockpick ?  \n      c\n </Text>
+	<Text>\nYou've used the .lockpick .\n </Text>
+	<Text>All I need now to destroy\nthe wall being blocked by the helicopter is\na .detonator ...\n</Text>
+</Strings>

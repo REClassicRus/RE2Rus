@@ -1,0 +1,7 @@
+<Strings>
+	<Text>A huge breaker system that\nregulates all the power  \nin the lab. The .main fuse  has been\nremoved and the power is \nnot active in some areas. </Text>
+	<Text>A huge breaker system that\nregulates all the power  \nin the lab. </Text>
+	<Text>What made her\ndo that...!? </Text>
+	<Text>\nIt's Ada's gun. There are no rounds in\nthe magazine. </Text>
+	<Text>\nThere's no time to go back!  \n.X \n.X \n.Q \n. \n.T \n.t \n. \n.K \n.R \n.F \n.4 \n.e \n. \n. \n.h \n.V \n. \n." \n. \n. \n.v \n.T \n.I \n.P \n.F \n. \n.A</Text>
+</Strings>

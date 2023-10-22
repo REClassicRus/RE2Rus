@@ -1,0 +1,63 @@
+<Strings>
+	<Text>·</Text>
+	<Text>\nA miserable death...\n </Text>
+	<Text>\nThe body has been torn apart.\n Something appears to have\nburst out from inside...\n  </Text>
+	<Text> </Text>
+	<Text>j </Text>
+	<Text> </Text>
+	<Text>· </Text>
+	<Text>K </Text>
+	<Text> </Text>
+	<Text>N </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text>o </Text>
+	<Text>g </Text>
+	<Text>J </Text>
+	<Text>o </Text>
+	<Text> </Text>
+	<Text>t </Text>
+	<Text>g </Text>
+	<Text>g </Text>
+	<Text>w </Text>
+	<Text>E </Text>
+	<Text> </Text>
+	<Text>o </Text>
+	<Text> </Text>
+	<Text>E </Text>
+	<Text>w </Text>
+	<Text>w </Text>
+	<Text> </Text>
+	<Text>g </Text>
+	<Text>V </Text>
+	<Text>V </Text>
+	<Text>" </Text>
+	<Text>w </Text>
+	<Text>w </Text>
+	<Text>o </Text>
+	<Text>" </Text>
+	<Text>· </Text>
+	<Text>o </Text>
+	<Text> </Text>
+	<Text>E </Text>
+	<Text> </Text>
+	<Text>N </Text>
+	<Text>j </Text>
+	<Text> </Text>
+	<Text>V </Text>
+	<Text>V </Text>
+	<Text>V </Text>
+	<Text> </Text>
+	<Text>w </Text>
+	<Text>N </Text>
+	<Text>g </Text>
+	<Text> </Text>
+	<Text>N </Text>
+	<Text>w </Text>
+	<Text> </Text>
+	<Text>w </Text>
+	<Text>V </Text>
+	<Text>V </Text>
+	<Text>O \n</Text>
+	<Text>o</Text>
+</Strings>

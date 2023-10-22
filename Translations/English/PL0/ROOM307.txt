@@ -1,0 +1,5 @@
+<Strings>
+	<Text>The water pipe is under\nconstruction. </Text>
+	<Text>\nThe fence is broken. It is too small for\nan adult to enter.  \n .j</Text>
+	<Text>Will you go up the ladder?\nd</Text>
+</Strings>

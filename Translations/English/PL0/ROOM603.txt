@@ -1,0 +1,17 @@
+<Strings>
+	<Text>b </Text>
+	<Text> </Text>
+	<Text>g </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text>g </Text>
+	<Text>N </Text>
+	<Text>" </Text>
+	<Text>· </Text>
+	<Text>8 </Text>
+	<Text>L</Text>
+	<Text>It's a switch for the lift.\nWill you push it?\nD</Text>
+</Strings>

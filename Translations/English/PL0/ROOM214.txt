@@ -1,0 +1,12 @@
+<Strings>
+	<Text>It's locked. The locker\nreads: «Machine Gun». The left locker reads:\n»Side Pack». </Text>
+	<Text>It's locked. The locker\nreads: «Side Pack».You can carry more items with the side pack.The right locker reads:«Machine Gun». </Text>
+	<Text>\nA side pack. Will you equip with it?\nd </Text>
+	<Text>The side pack is being\nequipped. </Text>
+	<Text>There's a machine gun\nand a side pack. With a side pack, \nI can carry more items. Will you equip it?\n          ) </Text>
+	<Text>Will you equip it?\nd </Text>
+	<Text>\nThere's a machine gun. </Text>
+	<Text>\nThere's a side pack. </Text>
+	<Text>I should probably\nsave it for Leon... </Text>
+	<Text>I should probably\nsave it for Claire...</Text>
+</Strings>

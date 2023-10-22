@@ -1,0 +1,12 @@
+<Strings>
+	<Text>\nIt's a door to the warehouse. Will you open it?\nD </Text>
+	<Text>Will you go down the ladder?\nd </Text>
+	<Text>Will you go up the ladder?\nd </Text>
+	<Text>It's an alcohol lamp.\nPlenty of fuel remains. </Text>
+	<Text>\nIt's too dark to see anything. </Text>
+	<Text>A device to regulate the\nquality of sewage water. </Text>
+	<Text>\nThere is nothing inside. </Text>
+	<Text>\nIt's an old locker. </Text>
+	<Text>Various cords and meters\nare placed in order. </Text>
+	<Text>\nVarious tools for repairs.</Text>
+</Strings>

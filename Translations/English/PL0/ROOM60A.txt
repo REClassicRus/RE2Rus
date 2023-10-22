@@ -1,0 +1,10 @@
+<Strings>
+	<Text>The desk is\nwell organized.\n </Text>
+	<Text>\nA researcher's corpse. It looks like he poured\noil all over the place... \nA researcher's bed.\n \nIt still locks unharmed.\n A plant is growing out of\nthe hole.\n </Text>
+	<Text>There are .Blue Herbs \ngrowing here. Will you use them?  </Text>
+	<Text>I don't need to use\nthese now. </Text>
+	<Text>\nYou used the .Blue Herb . </Text>
+	<Text>The console says:\nAnti-B.O.W. gas sprinkler. Will you turn on the\nswitch?  </Text>
+	<Text>«Anti-B.O.W gas\nsprinkling in progress.» </Text>
+	<Text>«Anti-B.O.W. gas\nsprinkling completed.»</Text>
+</Strings>

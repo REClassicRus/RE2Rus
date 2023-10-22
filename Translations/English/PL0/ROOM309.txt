@@ -1,0 +1,5 @@
+<Strings>
+	<Text>There's no time to operate \nit! </Text>
+	<Text>Will you push the button?\nD </Text>
+	<Text>Will you go up the ladder?\nd</Text>
+</Strings>

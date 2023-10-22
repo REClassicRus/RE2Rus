@@ -1,0 +1,6 @@
+<Strings>
+	<Text>\nT  \n \n; \n </Text>
+	<Text>\n  |M    \n «|| 2 \n  2  A»  \n </Text>
+	<Text>\n MD··· \n </Text>
+	<Text>\n    L!!     \n</Text>
+</Strings>

@@ -1,0 +1,5 @@
+<Strings>
+	<Text>\n   .--  \nF?  </Text>
+	<Text>\n  F </Text>
+	<Text>\n   .-- F</Text>
+</Strings>

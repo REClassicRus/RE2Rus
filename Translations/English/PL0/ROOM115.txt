@@ -1,0 +1,16 @@
+<Strings>
+	<Text>It's trashed. Someone must\nhave searched the desk... </Text>
+	<Text>The desk is\ndisorganized and untidy. It probably reflects the\nowner's personality. </Text>
+	<Text>\n \n </Text>
+	<Text>It's a picture of a\nyoung man. There's a good chance it's\nher boyfriend... </Text>
+	<Text>It appears to be a\nreplica of a gun. The owner is probably a \nmember of the N.R.A. </Text>
+	<Text>There are unopened\ncardboard boxes. It looks like a rookie's\ndesk. </Text>
+	<Text>There isn't anything\nuseful on this shelf. </Text>
+	<Text>There are\nvarious trophies. \nOne of them reads:  Marksman Contest Winner:\nChris Redfield. </Text>
+	<Text>Nothing suspicious nor \nout of the ordinary. </Text>
+	<Text>\n   |0    \n    X4     </Text>
+	<Text>Several files from past\ncases. \nNothing useful here. </Text>
+	<Text>A picture of the \n«»? members. </Text>
+	<Text>\nThere are various devices. This must be where they\ngathered information. </Text>
+	<Text>\n      M</Text>
+</Strings>

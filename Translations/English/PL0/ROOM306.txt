@@ -1,0 +1,6 @@
+<Strings>
+	<Text>A lever to fill and\ndrain water. Will you move it?\nD </Text>
+	<Text>There's a .sewage disposal\nmap . Will you take it?\nd </Text>
+	<Text>You've taken\nthe .sewage disposal map . </Text>
+	<Text>The water is blocking the\nentrance.</Text>
+</Strings>

@@ -1,0 +1,6 @@
+<Strings>
+	<Text>There's no time to check \nit! </Text>
+	<Text>It looks like a panel to \nrelease the lock. There are descriptions for \nthe plugs. «King plug insertion.\nRook plug insertion.» «Bishop plug insertion.\nKnight plug insertion.» </Text>
+	<Text>All plugs are in place and\nthe lock's been released. </Text>
+	<Text>\nIt's tightly locked.  The panel on the right\nappears to open it.</Text>
+</Strings>

@@ -1,0 +1,6 @@
+<Strings>
+	<Text>He has lost consciousness\ndue to shock from  the bullet wound. The wound\ndoes not seem to be mortal... </Text>
+	<Text>I have to catch \nthat woman! </Text>
+	<Text>There's a .sewer map .\nWill you take it?d </Text>
+	<Text>You've taken\nthe .sewer map .  \n.H \n.D \n.0</Text>
+</Strings>

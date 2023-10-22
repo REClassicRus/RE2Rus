@@ -1,0 +1,10 @@
+<Strings>
+	<Text>\n </Text>
+	<Text>\n </Text>
+	<Text>It's too dark to see \nanything outside. </Text>
+	<Text>«2F: Chief's Office, \n678, Library.» </Text>
+	<Text>\n«Left back: Darkroom.» </Text>
+	<Text>«Don't leave the Darkroom \ndoor open.» </Text>
+	<Text>Copy paper and office\nsupplies. </Text>
+	<Text>\nThe door won't open!</Text>
+</Strings>

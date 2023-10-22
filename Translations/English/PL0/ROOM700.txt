@@ -1,0 +1,5 @@
+<Strings>
+	<Text>\nI can't go back now! </Text>
+	<Text>A device to open the \ntunnel gate. \nThe power is not supplied. </Text>
+	<Text>A device to open the \ntunnel gate. Will you turn on the \nswitch?D</Text>
+</Strings>

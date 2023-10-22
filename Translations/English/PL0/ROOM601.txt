@@ -1,0 +1,10 @@
+<Strings>
+	<Text>\nAn elevator control panel. Will you push the button?D </Text>
+	<Text>It's in the emergency mode.\nI can't activate the elevator. </Text>
+	<Text>«The .master key  is required\nto open the emergency route.» </Text>
+	<Text>Will you use the .master key ?D </Text>
+	<Text>An emergency passage\nway is visible. Will you go down?\nD </Text>
+	<Text>\nI have to go back for Sherry! </Text>
+	<Text>\nI can't leave Sherry behind! </Text>
+	<Text>\nThere's no time to go back!</Text>
+</Strings>

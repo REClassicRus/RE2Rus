@@ -1,0 +1,7 @@
+<Strings>
+	<Text>T \n\n</Text>
+	<Text>t</Text>
+	<Text>\nThe floodgate is open.\n </Text>
+	<Text>It's too dark to see\nwhat's inside.\n  \n\n</Text>
+	<Text>L</Text>
+</Strings>

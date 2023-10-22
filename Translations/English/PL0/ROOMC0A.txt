@@ -1,0 +1,4 @@
+<Strings>
+	<Text>D?        \nd </Text>
+	<Text>\n   !</Text>
+</Strings>

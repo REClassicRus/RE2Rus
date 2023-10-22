@@ -1,0 +1,5 @@
+<Strings>
+	<Text>Both the helicopter and\ndoor are destroyed. It doesn't look like it's\npossible to get to the other side. </Text>
+	<Text>Both the helicopter and\ndoor are destroyed. It doesn't look like it's\npossible to get to \nthe other side.\n The door is broken.\nI can't go any further. There's no choice but to\ntake out the wall. </Text>
+	<Text>\nThe door won't open!\n</Text>
+</Strings>

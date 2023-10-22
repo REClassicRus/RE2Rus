@@ -1,0 +1,29 @@
+<Strings>
+	<Text>It's a switch.\nWill you push it?\nD </Text>
+	<Text>It's a switch.\nWill you push it?\nD  </Text>
+	<Text>6 </Text>
+	<Text>F </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text>c </Text>
+	<Text> </Text>
+	<Text>Y </Text>
+	<Text> </Text>
+	<Text>; </Text>
+	<Text>w </Text>
+	<Text> </Text>
+	<Text>S </Text>
+	<Text>t </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text>J </Text>
+	<Text> </Text>
+	<Text>; </Text>
+	<Text>p </Text>
+	<Text>C </Text>
+	<Text>L</Text>
+	<Text>\nVarious objects of art.\n \nNothing useful.\n </Text>
+	<Text>\nIt's kept clean.\n </Text>
+	<Text>A goblet.\nNothing extraordinary.\n </Text>
+	<Text>It doesn't look like\nit's been used.\n</Text>
+</Strings>

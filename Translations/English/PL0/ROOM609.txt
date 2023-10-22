@@ -1,0 +1,5 @@
+<Strings>
+	<Text>The interior has been \ndestroyed by the plant. </Text>
+	<Text>These machines are all\nuseless now. </Text>
+	<Text>\nNothing inside.</Text>
+</Strings>

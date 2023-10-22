@@ -1,0 +1,12 @@
+<Strings>
+	<Text>\nI can develop film here.\n </Text>
+	<Text>\nIt's locked. A special kind of key\nis required. </Text>
+	<Text>Will you use the\n.special key ?  </Text>
+	<Text>You've used the\n.special key . </Text>
+	<Text>There are two outfits\nthat should fit you. Will you change your clothes?\n  </Text>
+	<Text>Which one would you like?\n| </Text>
+	<Text>Will you change your clothes?\n( </Text>
+	<Text>There is one outfit\nthat should fit you. Will you change your clothes?\n  </Text>
+	<Text>\n...There's an old gun here. </Text>
+	<Text>Will you change back to your\norignal clothes?</Text>
+</Strings>

@@ -1,0 +1,8 @@
+<Strings>
+	<Text>It looks like there was a\nrecent accident here. </Text>
+	<Text>Empty soda cans and junk.\nNothing else. </Text>
+	<Text>It looks like an operation \nmap... </Text>
+	<Text>It's a fire place. An oil \npainting hangs above it. .</Text>
+	<Text>\nThe title is: «A Sacrifice to the hell \nfire.» </Text>
+	<Text>\nNothing special.</Text>
+</Strings>

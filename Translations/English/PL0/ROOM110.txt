@@ -1,0 +1,7 @@
+<Strings>
+	<Text>The first floor can \nbe seen. </Text>
+	<Text>It's electronically\nlocked.  \nThe door reads: «Library.» </Text>
+	<Text>\nAn emergency ladder. Will you push the button?\nd </Text>
+	<Text>Will you go down the ladder?\nd </Text>
+	<Text>\nSomething is written here. «Pure maidens, hold the \nwater bearer and pray until the unicorn shows \nup to welcome you.»</Text>
+</Strings>

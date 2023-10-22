@@ -1,0 +1,4 @@
+<Strings>
+	<Text>Will you turn the monitor\non?D </Text>
+	<Text>Nothing is displayed on\nthe monitor.</Text>
+</Strings>

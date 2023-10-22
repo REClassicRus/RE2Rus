@@ -1,0 +1,10 @@
+<Strings>
+	<Text>A light switch.\nWill you push it?  </Text>
+	<Text>\nThe light is already on. </Text>
+	<Text>It's too dark to\nsee anything. </Text>
+	<Text>Start switch for the VAM.\nWill you push it?  </Text>
+	<Text>It won't operate until the\ncartridge is set. </Text>
+	<Text>\n     VAMg      </Text>
+	<Text>Activator -VAM-\nFor base vaccine synthesis. </Text>
+	<Text>Activator -VAM-\nFor base vaccine synthesis. There is a hole to set\nthe cartridge.</Text>
+</Strings>

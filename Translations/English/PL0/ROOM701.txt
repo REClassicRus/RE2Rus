@@ -1,0 +1,4 @@
+<Strings>
+	<Text>Storage for the high\ncapacity plugs. Will you open it?\nD </Text>
+	<Text>\nNothing looks useful here.  \n.n</Text>
+</Strings>

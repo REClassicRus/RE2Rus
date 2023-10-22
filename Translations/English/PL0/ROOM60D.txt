@@ -1,0 +1,4 @@
+<Strings>
+	<Text>A control box used for\nsuper low temperature  \nexperiments.  I could set the \nsuperconductor fuse here  \nif I had a .fuse case . </Text>
+	<Text>It looks like a computer\nfor organizing data files.</Text>
+</Strings>

@@ -1,0 +1,7 @@
+<Strings>
+	<Text>«Clearance identification\ndevice.» A wolf and an eagle are\netched on the device. </Text>
+	<Text>The wolf medal is \nin place.  </Text>
+	<Text>The eagle medal is \nin place.  </Text>
+	<Text>The two medals are\nalready in place. </Text>
+	<Text>The water is flowing too\nfast for me to cross.</Text>
+</Strings>

@@ -1,0 +1,50 @@
+<Strings>
+	<Text>" \n\n</Text>
+	<Text> \n\n</Text>
+	<Text>\n\n</Text>
+	<Text>p \n\n</Text>
+	<Text>J \n\n</Text>
+	<Text> \n\n</Text>
+	<Text>F \n\n</Text>
+	<Text>j \n\n</Text>
+	<Text>· \n\n</Text>
+	<Text>L \n\n</Text>
+	<Text>j \n\n</Text>
+	<Text> \n\n</Text>
+	<Text>; \n\n</Text>
+	<Text>B \n\n</Text>
+	<Text> \n\n</Text>
+	<Text> \n\n</Text>
+	<Text> \n\n</Text>
+	<Text> \n\n</Text>
+	<Text> \n\n</Text>
+	<Text>6 \n\n</Text>
+	<Text>t \n\n</Text>
+	<Text>t \n\n</Text>
+	<Text> \n\n</Text>
+	<Text>t \n\n</Text>
+	<Text>' \n\n</Text>
+	<Text> \n\n</Text>
+	<Text> \n\n</Text>
+	<Text>j \n\n</Text>
+	<Text>O \n\n</Text>
+	<Text>!</Text>
+	<Text>An oil pressure\nregulator and oil tank.\n </Text>
+	<Text> -Oil pressure data\ntransmitter- «Insert the valve handle\nand rotate it to move the \ncentral bridge up or down» </Text>
+	<Text>I can't cross unless the\nbridge is down.  \n\n</Text>
+	<Text>T \n\n</Text>
+	<Text> \n\n</Text>
+	<Text> \n\n</Text>
+	<Text> \n\n</Text>
+	<Text>S \n\n</Text>
+	<Text> \n\n</Text>
+	<Text>B \n\n</Text>
+	<Text> \n\n</Text>
+	<Text> \n\n</Text>
+	<Text></Text>
+	<Text>\nAnnet is unconscious.\n </Text>
+	<Text>There are .Blue Herbs \ngrowing here. Will you use them?  </Text>
+	<Text>I don't need to use\nthese now. </Text>
+	<Text>\nYou used the .Blue Herb .  \n\n</Text>
+	<Text>·</Text>
+</Strings>

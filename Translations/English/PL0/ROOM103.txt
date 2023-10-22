@@ -1,0 +1,3 @@
+<Strings>
+	<Text>It's too dangerous to\ngo back outside.\n</Text>
+</Strings>

@@ -1,0 +1,7 @@
+<Strings>
+	<Text>The cage could break at\nany moment...! </Text>
+	<Text>\nThe lid is firmly closed. I might be able to open it\nwith the right tool... </Text>
+	<Text>\n</Text>
+	<Text>Will you go down the ladder?\nd </Text>
+	<Text>\nThe lid is firmly closed. It's impossible for me\nto open it.</Text>
+</Strings>

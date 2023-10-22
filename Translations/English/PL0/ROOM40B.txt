@@ -1,0 +1,3 @@
+<Strings>
+	<Text>\nThere's a ladder. Will you go down the\nladder?</Text>
+</Strings>

@@ -1,0 +1,5 @@
+<Strings>
+	<Text>\nVarious research materials. </Text>
+	<Text>I can't put my friends\nin danger. I have no choice but to\nstop that creature here! </Text>
+	<Text>\nAn old typewriter. I could save my progress\nif I had an .ink ribbon . \nThere's no time for that!</Text>
+</Strings>

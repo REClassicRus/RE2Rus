@@ -1,0 +1,12 @@
+<Strings>
+	<Text>\nThe window is boarded up.\n </Text>
+	<Text>\n</Text>
+	<Text>  </Text>
+	<Text>\n </Text>
+	<Text>The barricade appears to\nhave been made in a hurry.\n </Text>
+	<Text>\nSomething is written here.\n «Please keep quiet while\nmeetings are in session!»\n </Text>
+	<Text>\nNothing strange.\n </Text>
+	<Text>A ventilation shaft.\nIt's dark inside.\n </Text>
+	<Text>\nThe door won't open!\n </Text>
+	<Text>\n                  \n</Text>
+</Strings>

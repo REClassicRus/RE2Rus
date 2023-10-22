@@ -1,0 +1,4 @@
+<Strings>
+	<Text>The sky tram is already\nactive. </Text>
+	<Text>The gondola is moving.\nI can't get off right now.</Text>
+</Strings>

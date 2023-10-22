@@ -1,0 +1,7 @@
+<Strings>
+	<Text>\nIt is broken from inside.. </Text>
+	<Text>It looks like the remains\nof a failed experiment.... </Text>
+	<Text>His abdomen has been\nripped apart. </Text>
+	<Text>It's looks like \nencase to transport some important chemical\nbut there's nothing inside.... </Text>
+	<Text>\nIt's seems to be broken..</Text>
+</Strings>

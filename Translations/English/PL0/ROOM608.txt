@@ -1,0 +1,7 @@
+<Strings>
+	<Text>A huge breaker system that\nregulates all the power  \nin the lab. The .main fuse  has been\nremoved and the power is \nnot active in some areas. </Text>
+	<Text>A huge breaker system that\nregulates all the power  \nin the lab. </Text>
+	<Text>Her fever has subsided\nand she is resting \nas though asleep. </Text>
+	<Text>It's a gun.\nIt's not loaded. </Text>
+	<Text>\nThere's no time to go back!  \n.d \n.X \n. \n. \n. \n.L \n.N</Text>
+</Strings>

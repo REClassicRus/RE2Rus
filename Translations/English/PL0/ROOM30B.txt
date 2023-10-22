@@ -1,0 +1,5 @@
+<Strings>
+	<Text>\nThe door won't open! </Text>
+	<Text>»Raccoon City Sewage\nDisposal Plant.» »No trespassing.» </Text>
+	<Text>\nIt's sealed firmly.</Text>
+</Strings>

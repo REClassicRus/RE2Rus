@@ -1,0 +1,4 @@
+<Strings>
+	<Text>\nNothing unusual.\n </Text>
+	<Text>\n                  \n</Text>
+</Strings>

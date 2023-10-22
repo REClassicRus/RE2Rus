@@ -1,0 +1,7 @@
+<Strings>
+	<Text>\nVarious trophies. There's nothing strange\nabout them. </Text>
+	<Text>There's a button below the\npicture.  Will you push it?\nD </Text>
+	<Text>«The sacrifice dies by\nthe claw of the jaguar.» «Its blood forms a serpent\nthat poisons the earth.» «An eagle glistens, bathed \nin blood.» «And the gateway of doom\nwill open.» </Text>
+	<Text>All the «Stones» are \nin place. </Text>
+	<Text>An elevator. It appears\nto go down...  \n.:</Text>
+</Strings>

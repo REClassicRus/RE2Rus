@@ -1,0 +1,62 @@
+<Strings>
+	<Text>All I need now to destroy\nthe wall being blocked by\n the helicopter is\nan .explosive  charge...\n </Text>
+	<Text>Must have been attacked \nby zombies\n </Text>
+	<Text>There is a trace of resistance \non the corpse.\n </Text>
+	<Text>\nIt's a horrible corpse.\n </Text>
+	<Text>The head has been \nchopped off.\n </Text>
+	<Text>\nIt's today's date.\n «September 29th\n Michael Festival»\n </Text>
+	<Text>There's waiting room\nby the reception desk.\n </Text>
+	<Text>\nNothing suspicious.\n </Text>
+	<Text>It's a photo stand.\nPossibly a family photo.\n </Text>
+	<Text>Someone has made quite a\nmess here.\n </Text>
+	<Text>A bunch of files.\nNothing useful.\n </Text>
+	<Text>It's totally messed up\non the desk.\n </Text>
+	<Text>\nNothing seems to be useful.\n  </Text>
+	<Text>I </Text>
+	<Text>' </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text>L </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text>E </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text>t \n\n</Text>
+	<Text>» </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text>t </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text>E </Text>
+	<Text>" </Text>
+	<Text>E </Text>
+	<Text>" </Text>
+	<Text>o </Text>
+	<Text>N </Text>
+	<Text>o </Text>
+	<Text>g </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text>o </Text>
+	<Text>w </Text>
+	<Text>g </Text>
+	<Text>N </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text>B </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text>N </Text>
+	<Text>" </Text>
+	<Text>" </Text>
+	<Text>" </Text>
+	<Text>g</Text>
+</Strings>

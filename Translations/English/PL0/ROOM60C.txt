@@ -1,0 +1,15 @@
+<Strings>
+	<Text>It's a shutter switch.\nWill you push it?  </Text>
+	<Text>\nNo response... \nThe power is not supplied. </Text>
+	<Text>The shutter is\nopen already. </Text>
+	<Text>It's tightly sealed. There\nis a panel on the left. </Text>
+	<Text>«2 or more staff need to\nbe present to enter.» </Text>
+	<Text>«Commencing with\nfingerprint verification.» Will you proceed?\n  </Text>
+	<Text>\n«Not on file.» </Text>
+	<Text>\n«Fingerprint verified.» </Text>
+	<Text>«Commencing with\nsecondary fingerprint \nverification.» Will you proceed?\n  </Text>
+	<Text>\n«Secondary user required.» I need someone else to\nhelp me open the door. </Text>
+	<Text>«Fingerprint verified.\nAccess granted.» </Text>
+	<Text>The lock is\nalready released. </Text>
+	<Text>The shutter is sealed\nfirmly in place.  \n.h \n. \n. \n. \n./ \n., \n.v \n.X \n. \n. \n.A \n.S \n.n \n. \n.X \n.q \n.Z \n. \n.X \n.p \n.z \n.] \n. \n.L</Text>
+</Strings>

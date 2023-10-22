@@ -1,0 +1,10 @@
+<Strings>
+	<Text>\nPaper dated Sep. 18th. \nIt looks irrelevant. </Text>
+	<Text>The case is broken. There\nis nothing useful inside. </Text>
+	<Text>There is nothing useful\nhere. </Text>
+	<Text>\nMore useless trinkets. </Text>
+	<Text>The streets are no longer\nsecure. </Text>
+	<Text>\nHe has stopped breathing. </Text>
+	<Text>Gun cases and\nrelated paraphernalia. </Text>
+	<Text>\n</Text>
+</Strings>

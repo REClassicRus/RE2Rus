@@ -1,0 +1,16 @@
+<Strings>
+	<Text>B \n\n</Text>
+	<Text>j \n\n</Text>
+	<Text> \n\n</Text>
+	<Text>B \n\n</Text>
+	<Text>B \n\n</Text>
+	<Text>Q \n\n</Text>
+	<Text>t \n\n</Text>
+	<Text> \n\n</Text>
+	<Text> \n\n</Text>
+	<Text>t \n\n</Text>
+	<Text>t</Text>
+	<Text>\nI can't go any further.\n </Text>
+	<Text>The hand brake is loose\nbut I can't move it alone.\n </Text>
+	<Text>\nParking management files.\n</Text>
+</Strings>

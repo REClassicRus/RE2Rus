@@ -1,0 +1,18 @@
+<Strings>
+	<Text>: \n\n</Text>
+	<Text> \n\n</Text>
+	<Text> \n\n</Text>
+	<Text>[ \n\n</Text>
+	<Text>: \n\n</Text>
+	<Text>q \n\n</Text>
+	<Text>6 \n\n</Text>
+	<Text> \n\n</Text>
+	<Text>j \n\n</Text>
+	<Text>B \n\n</Text>
+	<Text> \n\n</Text>
+	<Text>l \n\n</Text>
+	<Text>·</Text>
+	<Text>It looks like all the\ncity's trash has been \ndumped here.  \n</Text>
+	<Text> </Text>
+	<Text>Will you go up the ladder?\n</Text>
+</Strings>

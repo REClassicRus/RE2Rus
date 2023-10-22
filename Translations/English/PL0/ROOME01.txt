@@ -1,0 +1,3 @@
+<Strings>
+	<Text>\n   A!    \n</Text>
+</Strings>

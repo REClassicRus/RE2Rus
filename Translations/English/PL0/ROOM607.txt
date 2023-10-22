@@ -1,0 +1,5 @@
+<Strings>
+	<Text>\nSecurity manuals. </Text>
+	<Text>\nWhere is Ada? </Text>
+	<Text></Text>
+</Strings>

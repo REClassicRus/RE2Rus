@@ -1,0 +1,7 @@
+<Strings>
+	<Text>A paper more than a\nweek old.\n </Text>
+	<Text>\nNothing special.\n </Text>
+	<Text>His throat and abdomen\nhave been torn out.\n </Text>
+	<Text>\nNothing useful.\n </Text>
+	<Text>\nNothing in this locker.\n</Text>
+</Strings>

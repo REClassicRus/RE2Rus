@@ -1,0 +1,5 @@
+<Strings>
+	<Text>\n  GIJK    </Text>
+	<Text>\n L2||M   \n  N!   </Text>
+	<Text>\n    -   . \n  - \n(</Text>
+</Strings>

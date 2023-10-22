@@ -1,0 +1,10 @@
+<Strings>
+	<Text>\nA woman relief. There's a hole about the \nsize of a fist. </Text>
+	<Text>An armored stone statue.\nThe stand reads: «Tyranos the brave revives\nwith two lights.» </Text>
+	<Text>It's been neglected and\nis covered with dust. </Text>
+	<Text>\nNothing inside. </Text>
+	<Text>Nothing useful on \nthe shelf. </Text>
+	<Text>Nothing but an oil \npainting wrapped in cloth. </Text>
+	<Text>\nA woman relief. \nA jewel is in place. </Text>
+	<Text>\nNothing inside.</Text>
+</Strings>

@@ -1,0 +1,6 @@
+<Strings>
+	<Text>The knob turns, but\nthe door won't budge.\n It seems to be sealed\nfrom the other side.\n </Text>
+	<Text>Something is written on\nthe mounting.\n «The god of sun and the\ngod of moon. Their gaze\n upon me is the only thing\nthat can release red soul.»\n </Text>
+	<Text>Something seems to have\nbeen placed here...\n </Text>
+	<Text>\nThe door won't open!\n</Text>
+</Strings>

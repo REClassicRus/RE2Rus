@@ -1,0 +1,6 @@
+<Strings>
+	<Text>The door has been \ncompletely sealed due  \nto the explosion. </Text>
+	<Text>A huge lift used to \nreach the platform. Will you activate it?\nD </Text>
+	<Text>\n </Text>
+	<Text>\nThe lift isn't here yet!  \n.m</Text>
+</Strings>

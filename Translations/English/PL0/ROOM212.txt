@@ -1,0 +1,3 @@
+<Strings>
+	<Text>The manhole lid is open.\nA ladder leads down. Will you go down?\n  )         /   Q   .     |  X   )  /   Q   .     )      t«  .\n    «    \n?   \n      »   l</Text>
+</Strings>

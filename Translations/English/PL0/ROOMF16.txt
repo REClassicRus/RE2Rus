@@ -1,0 +1,3 @@
+<Strings>
+	<Text>\n    L!!</Text>
+</Strings>

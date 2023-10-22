@@ -1,0 +1,5 @@
+<Strings>
+	<Text>\nIt's a magic mirror.\n </Text>
+	<Text>\nNothing special on the shelf.\n </Text>
+	<Text>\n                  \n</Text>
+</Strings>

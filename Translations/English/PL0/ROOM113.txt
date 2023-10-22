@@ -1,0 +1,10 @@
+<Strings>
+	<Text>\n  </Text>
+	<Text>\nThe door is nailed shut. It doesn't look like I\ncan pass through here.  </Text>
+	<Text>It's way too small for an\nadult to enter. </Text>
+	<Text>None of this information\nlooks useful. </Text>
+	<Text>\n \n </Text>
+	<Text>\n </Text>
+	<Text>\n </Text>
+	<Text>\n  \n.P \n.L \n.P \n.X \n./ \n.j \n. \n.z \n.t \n.· \n.T \n.z</Text>
+</Strings>

@@ -1,0 +1,11 @@
+<Strings>
+	<Text>\nNothing unusual here. </Text>
+	<Text>\nMemos have been posted. \nNothing useful. </Text>
+	<Text>\nThe head is missing. It seems to have been\ntwisted off. </Text>
+	<Text>There appear to be\ndiscarded files inside. </Text>
+	<Text>\nNothing special. </Text>
+	<Text>An open/close switch for \nthe shutter. It can't be activated \nsince the cord is cut. </Text>
+	<Text>The cord will short out \nsoon. </Text>
+	<Text>It's a complete loss and \nthe shutter cannot  \nbe activated. </Text>
+	<Text>\nThe door won't open!</Text>
+</Strings>

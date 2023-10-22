@@ -1,0 +1,5 @@
+<Strings>
+	<Text>\nHe's been pecked to death. </Text>
+	<Text>I can't open it because\nof the debris. </Text>
+	<Text>\nThe door won't open!</Text>
+</Strings>

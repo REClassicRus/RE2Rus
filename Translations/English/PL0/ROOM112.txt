@@ -1,0 +1,10 @@
+<Strings>
+	<Text>\nPower switch to the shelf. Will you push it?\n  </Text>
+	<Text>A switch to slide the\nshelf left and right. Will you push it?\n. </Text>
+	<Text>A bronze plate with a\npicture on it.  .</Text>
+	<Text>None of these books\nappear to be useful. </Text>
+	<Text>Many of the books are on\nprofiling investigation. </Text>
+	<Text>Many books on this shelf \nare about chemistry. </Text>
+	<Text>Company data files \nprimarily on Umbrella Inc. </Text>
+	<Text>\nThe door won't open!</Text>
+</Strings>

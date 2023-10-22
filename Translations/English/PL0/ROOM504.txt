@@ -1,0 +1,7 @@
+<Strings>
+	<Text>A large hole has been \npunched through the wall. </Text>
+	<Text>It seems to be a control \ndevice for the turn table. \nThere's a key hole... </Text>
+	<Text>Will you push the activation \nswitch?D </Text>
+	<Text>\nThere's a .factory map . Will you take it?\nd </Text>
+	<Text>You've taken \nthe .factory map .</Text>
+</Strings>

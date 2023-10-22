@@ -1,0 +1,8 @@
+<Strings>
+	<Text>Files on various cases.\nNone appear to be useful. </Text>
+	<Text>\nVisual materials. </Text>
+	<Text>Raccoon City data files.\nMost on Umbrella Inc. </Text>
+	<Text>A pile of investigation\nreports. </Text>
+	<Text>\nA copy machine. </Text>
+	<Text>\nNothing useful.</Text>
+</Strings>

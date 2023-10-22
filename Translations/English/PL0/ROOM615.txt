@@ -1,0 +1,13 @@
+<Strings>
+	<Text>I could open it if I had\nthe key. </Text>
+	<Text>\nIt's tightly locked7     </Text>
+	<Text>\nVarious chemicals. What kind of experiments\nhave been performed here? </Text>
+	<Text>Will you push the switch?\n          d </Text>
+	<Text>\n     U       </Text>
+	<Text>\n     Mx       </Text>
+	<Text>F?       \n          d </Text>
+	<Text>It looks like a machine\nused for the vaccine research. </Text>
+	<Text>There is nothing left for\nme to do here. </Text>
+	<Text>A vaccine synthesis \nmachine. The lid is open. The .base\nvaccine  must go inside. </Text>
+	<Text>Will you use the .Weapon\nBox Key ?d</Text>
+</Strings>

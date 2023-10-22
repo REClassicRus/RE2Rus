@@ -1,0 +1,10 @@
+<Strings>
+	<Text>There's an office over \nby the reception desk. </Text>
+	<Text>\nNothing special here. </Text>
+	<Text>\n \n </Text>
+	<Text>This is the symbol of the\nRaccoon City Police Dept. </Text>
+	<Text>It's too dark to see \nanything outside. </Text>
+	<Text>\nA very old stove. </Text>
+	<Text>\n </Text>
+	<Text>Nothing out of the\nordinary.</Text>
+</Strings>

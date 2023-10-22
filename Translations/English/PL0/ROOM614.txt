@@ -1,0 +1,34 @@
+<Strings>
+	<Text>5 </Text>
+	<Text> </Text>
+	<Text>" </Text>
+	<Text>s </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text>m </Text>
+	<Text> </Text>
+	<Text>t </Text>
+	<Text>5 </Text>
+	<Text>" </Text>
+	<Text> </Text>
+	<Text>B </Text>
+	<Text>V </Text>
+	<Text>o </Text>
+	<Text>w </Text>
+	<Text>V </Text>
+	<Text>V </Text>
+	<Text>N </Text>
+	<Text>t </Text>
+	<Text> </Text>
+	<Text>V </Text>
+	<Text> </Text>
+	<Text>X </Text>
+	<Text> </Text>
+	<Text>B </Text>
+	<Text> </Text>
+	<Text> </Text>
+	<Text>o </Text>
+	<Text></Text>
+	<Text>\nIt's a huge egg.\n  </Text>
+	<Text>E</Text>
+</Strings>

@@ -1,0 +1,12 @@
+<Strings>
+	<Text>It's electornically locked\nand will not open!\n </Text>
+	<Text>A safety lock device for\nuse in case of an \nemergency. Will you release the\nelectronic lock?  </Text>
+	<Text>It's a high pressure\ngas cylinder. In case of an emergency,\nthe red light will turn on and the gas cylinder may\nbe removed. </Text>
+	<Text>\n  R0! \n S«0-L </Text>
+	<Text>It's collapsing. It's\ndangerous to enter. </Text>
+	<Text>The gas cylinder is under\nextremely high pressure. </Text>
+	<Text>\n...It's dead.  \n\n</Text>
+	<Text>6</Text>
+	<Text>The door is electornically\nlocked.\n  \n\n</Text>
+	<Text>6</Text>
+</Strings>

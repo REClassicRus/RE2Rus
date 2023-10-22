@@ -1,0 +1,3 @@
+<Strings>
+	<Text>This looks like the switch\nto turn on the elevator. Will you push the switch?\n  The elevator power is\nalready on.\n \n«Iron smelting pool» \n«Employees only.»\n   \n  Xg\n</Text>
+</Strings>

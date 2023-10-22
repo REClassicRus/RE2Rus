@@ -1,0 +1,3 @@
+<Strings>
+	<Text>\nThere's no sign of life.\n</Text>
+</Strings>

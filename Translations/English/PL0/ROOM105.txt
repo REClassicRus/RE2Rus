@@ -1,0 +1,5 @@
+<Strings>
+	<Text>\nIt's locked...\n </Text>
+	<Text>\nYou have used the shed key\n </Text>
+	<Text>Entrance to the parking.\nThe shutter is down.\n</Text>
+</Strings>

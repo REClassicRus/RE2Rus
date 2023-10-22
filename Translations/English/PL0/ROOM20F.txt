@@ -1,0 +1,8 @@
+<Strings>
+	<Text>A barricade has been\nerected.\n </Text>
+	<Text>\nNothing special.\n </Text>
+	<Text>An open/close switch for\nthe shutter. It can't be activated\nsince the cord is cut. </Text>
+	<Text>The cord will short out\nsoon.\n </Text>
+	<Text>It's a complete loss and\nthe shutter cannot \nbe activated. </Text>
+	<Text>\nThe door won't open!\n</Text>
+</Strings>

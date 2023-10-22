@@ -1,0 +1,5 @@
+<Strings>
+	<Text>It looks like the central\ncontrol system... All the control switches \nare locked. </Text>
+	<Text>The auto destruct \nsystem is active...  \n.8 \n.0 \n. \n.t \n.i \n. \n.p \n.F \n.I \n.P \n. \n., \n. \n.e \n.e \n.: \n.p \n.z \n.] \n. \n. \n.! \n.p \n.z \n.] \n.</Text>
+	<Text>\nSherry is not here···</Text>
+</Strings>

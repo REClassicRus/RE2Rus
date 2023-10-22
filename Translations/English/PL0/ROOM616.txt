@@ -1,0 +1,7 @@
+<Strings>
+	<Text>A shutter is tightly \nsealed in place. </Text>
+	<Text>A solid looking shutter \nblocks the passage way. «Direct gateway to the \nunderground platform.» </Text>
+	<Text>There's a disk slot.\nThe monitor says: «Insert a verification .MO \ndisk  to open the gate.» </Text>
+	<Text>«Verification disk \nconfirmed.» </Text>
+	<Text>The .vaccine  has not \nbeen completed yet!</Text>
+</Strings>

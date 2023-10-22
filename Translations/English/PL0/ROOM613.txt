@@ -1,0 +1,4 @@
+<Strings>
+	<Text>Will you operate the\ncomputer?d </Text>
+	<Text>I can't reach \nthe computer. «Culture Experiment RoomStaff Registry.» «Enter your user name.» «This name is not in theresearcher data base.» «Commencing with temporary registration.» «Register your fingerprint.» Will you register?       «]»        «Registration complete.» «Guest registration is valid for 24 hours.»   «/]BCK0]»</Text>
+</Strings>

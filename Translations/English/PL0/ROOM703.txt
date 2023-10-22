@@ -1,0 +1,9 @@
+<Strings>
+	<Text>There's an activation \nlever for the train motor. </Text>
+	<Text>The motor cannot be \nactivated due to the  \ninsufficient power supply. </Text>
+	<Text>Will you move the lever?\nD </Text>
+	<Text>\nVarious meters. </Text>
+	<Text>\nIt's locked.  \n.? \n.H \n.H \n.T \n.T</Text>
+	<Text>\n  \n.: \n.W \n.e \n.i \n.e \n.] \n.Q \n., \n.V</Text>
+	<Text>The tunnel gate isn't\nopen yet!</Text>
+</Strings>

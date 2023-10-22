@@ -1,0 +1,9 @@
+<Strings>
+	<Text>\nIt's locked···\n </Text>
+	<Text>There seems to be \nan office over there.\n </Text>
+	<Text>\nNothing is wrong.\n </Text>
+	<Text>«Sept.28th Night shift\n               George Scott»\n </Text>
+	<Text>\nNothing to care about.\n </Text>
+	<Text>\nNothing inside looks useful.\n </Text>
+	<Text>\nThe door won't open!\n</Text>
+</Strings>

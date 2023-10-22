@@ -1,0 +1,4 @@
+<Strings>
+	<Text>  -L\n  D D?\n     </Text>
+	<Text>The manhole lid is open.\nA ladder leads down. Will you go down?\n  0A 4 d   .|L    ..|L    .|L    |.|L    |.|L    (.|L    ).|L    |.|L    |.|L    «.|L    ».|L    ?.|L    0.|L    1.|T     .|L    ..|L    .|L    |.|L    |.|L    (.|L    2.|L    3.|L    2.|L    (.|L    |.|L    |.|L    .|L    ..|L     .L      L t    LLLtLLL tLttt tt|               .   .   F4GH 4 4  F</Text>
+</Strings>

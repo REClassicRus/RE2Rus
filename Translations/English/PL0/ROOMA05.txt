@@ -1,0 +1,5 @@
+<Strings>
+	<Text>\n    L!!     \n </Text>
+	<Text>\n    RLF     \n </Text>
+	<Text>  6D-4  \n  «0-7   \n</Text>
+</Strings>

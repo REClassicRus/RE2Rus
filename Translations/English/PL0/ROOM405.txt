@@ -1,0 +1,12 @@
+<Strings>
+	<Text>I have to catch \nthat woman! </Text>
+	<Text>There's a ventilation hole\nat the base of the ladder. The fan is spinning too\nfast for me to enter. </Text>
+	<Text>It's too dark to see\nwhat's inside. </Text>
+	<Text>It's too dark to see \nwhat's inside. </Text>
+	<Text>There are several bullet\nholes here. </Text>
+	<Text>There are scattered\nblood stains. </Text>
+	<Text>Probably cut apart by some\nsort of edged tool. </Text>
+	<Text>The Umbrella Inc. logo is\nprinted on the mask. </Text>
+	<Text>\nHe's holding something. I don't need this right\nnow. </Text>
+	<Text>There's a ventilation slot\nat the end of the ladder. Will you go up the ladder?\nd</Text>
+</Strings>

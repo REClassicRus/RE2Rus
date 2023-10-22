@@ -1,0 +1,7 @@
+<Strings>
+	<Text>\nI have to get back to Ben!\n  </Text>
+	<Text>·</Text>
+	<Text>A control panel to release\nthe lock.\n The lock appears to be\nopen.\n </Text>
+	<Text>Possibly a garbage chute.\nIt's dark inside.\n </Text>
+	<Text>\nThe door won't open!\n</Text>
+</Strings>

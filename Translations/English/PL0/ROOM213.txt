@@ -1,0 +1,15 @@
+<Strings>
+	<Text>A .police B1 map .\nWill you take it?d </Text>
+	<Text>It's a switch. Will you\nmove it?| </Text>
+	<Text>It's a switch. Will you\nmove it?| </Text>
+	<Text>It's a switch. Will you\nmove it?| </Text>
+	<Text>It's a switch. Will you\nmove it?| </Text>
+	<Text>It's a switch. Will you\nmove it?| </Text>
+	<Text>\nPower supply too high. </Text>
+	<Text>\nPower supply OK. </Text>
+	<Text>\nPower supply slightly low. </Text>
+	<Text>\nPower supply too low. </Text>
+	<Text>\nPower supply OK. </Text>
+	<Text>-Reserve Power \n Control Panel- Power can be routed to\nthe areas with  insufficient power using\nthese five switches. Using all the power may\ncause a short and \ncut the power supply. </Text>
+	<Text>You've taken the \n.police B1 map .</Text>
+</Strings>

@@ -1,0 +1,14 @@
+<Strings>
+	<Text>A high yield generator\nthat supplies power for\n the inside facilities\nand the train.\n The high capacity plugs have\nbeen disconnected and the\n \ngenerator is not working.\n </Text>
+	<Text>«The emergency mode has\nbeen activated.\n The power supply will be\ncut temporarily.\n The emergency train will\nbe activated upon\n \nrestoration of the power.»\n </Text>
+	<Text>The door won't open until\nthe power is restored!\n </Text>
+	<Text>The power already has been\nsupplied to the train!\n </Text>
+	<Text>«Two plugs must be set\nsimultaneously for the\n \npower to stabilize.»\n</Text>
+	<Text>  </Text>
+	<Text>l </Text>
+	<Text>c </Text>
+	<Text>m </Text>
+	<Text>c </Text>
+	<Text>m </Text>
+	<Text>p</Text>
+</Strings>

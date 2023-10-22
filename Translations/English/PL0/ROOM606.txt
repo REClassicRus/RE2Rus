@@ -1,0 +1,4 @@
+<Strings>
+	<Text>An elevator. Pressing the\nbutton has no effect. It hasn't been used for a \nlong time. </Text>
+	<Text>\nI can't go back now!</Text>
+</Strings>

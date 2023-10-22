@@ -1,0 +1,17 @@
+<Strings>
+	<Text>n \n     ?    \n</Text>
+	<Text> \n      -K      \n</Text>
+	<Text>t        \n  |-XY   \n</Text>
+	<Text>     K»    \n    N!     \n</Text>
+	<Text> \n     ?    \n</Text>
+	<Text> \nK !\n</Text>
+	<Text> \n           \n</Text>
+	<Text> \n       !       \n</Text>
+	<Text>t \n     7K?     \n</Text>
+	<Text>V \n     7K?     \n</Text>
+	<Text>B \n   |-! ?    \n</Text>
+	<Text>j \n      |-!?      \n</Text>
+	<Text>B \n   S7    \n</Text>
+	<Text>L</Text>
+	<Text>   0    \n?            \nD</Text>
+</Strings>

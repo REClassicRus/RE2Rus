@@ -1,0 +1,7 @@
+<Strings>
+	<Text>\nThe door won't open!\n </Text>
+	<Text>\nYou have used the shed key\n </Text>
+	<Text>\nNothing is wrong.\n </Text>
+	<Text>\nA small ventilation shaft.\n It's far too small for an\nadult to fit into.\n </Text>
+	<Text>\n«»? office\n</Text>
+</Strings>

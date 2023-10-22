@@ -1,0 +1,9 @@
+<Strings>
+	<Text>It probably hasn't been\nworking for some time. </Text>
+	<Text>\nNothing special. </Text>
+	<Text>It doesn't appear to have\nbeen used much. </Text>
+	<Text>An ominous wind can\nbe heard... </Text>
+	<Text>\nZombies are inside...!! </Text>
+	<Text>It's too dangerous to\ngo back outside...!! </Text>
+	<Text>\nAn old typewriter. I could save my progress\nif I had an .ink ribbon . \nThere's no time for that!</Text>
+</Strings>

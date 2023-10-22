@@ -1,0 +1,18 @@
+<Strings>
+	<Text>A picture of a man on\na carriage.\n </Text>
+	<Text>Something is on\nthe wheel.\n </Text>
+	<Text>Light the queen, the king\nand the jack....\n</Text>
+	<Text> </Text>
+	<Text>then the carriage will\nstart running.\n</Text>
+	<Text> </Text>
+	<Text>\nThe wheel is missing.\n </Text>
+	<Text>\nYou can light a fire here.\n </Text>
+	<Text>\nIt's already lit.\n </Text>
+	<Text>The number 12 has been\netched.\n Will you turn the faucet on?\n\nD </Text>
+	<Text>The number 13 has been\netched.\n Will you turn the faucet on?\n\nD </Text>
+	<Text>The number 11 has been\netched.\n Will you turn the faucet on?\n\nD </Text>
+	<Text>The number 12 has been\netched.\n </Text>
+	<Text>The number 13 has been\netched.\n </Text>
+	<Text>The number 11 has been\netched.\n </Text>
+	<Text>\nIt's totally messed up.\n</Text>
+</Strings>

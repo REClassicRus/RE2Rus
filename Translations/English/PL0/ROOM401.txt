@@ -1,0 +1,17 @@
+<Strings>
+	<Text>The warehouse door\nis locked.\n </Text>
+	<Text>The warehouse door\nis locked. Will you use the .lockpick ?\n  </Text>
+	<Text>The warehouse door\nis locked. Will you use the .small key ?\n  </Text>
+	<Text>Will you go down the\nladder?\n  </Text>
+	<Text>Will you go up the\nladder?\n  </Text>
+	<Text>\nA small ventilation hole. It's way too small for an\nadult to enter. </Text>
+	<Text>The exit to the ladder\nis blocked off. </Text>
+	<Text>\nIt's out of reach.\n </Text>
+	<Text>A device to regulate the\nquality of sewage water.\n </Text>
+	<Text>\nThere is nothing inside.\n </Text>
+	<Text>\nIt's an old locker.\n </Text>
+	<Text>Various codes and meters\nare placed in order.\n </Text>
+	<Text>\nVarious tools for repairs.\n </Text>
+	<Text>\nYou used the .small key .\n </Text>
+	<Text>\nYou used the .lockpick .\n</Text>
+</Strings>

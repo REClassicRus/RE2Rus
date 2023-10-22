@@ -1,0 +1,3 @@
+<Strings>
+	<Text>D?        \nd</Text>
+</Strings>

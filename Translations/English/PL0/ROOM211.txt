@@ -1,0 +1,9 @@
+<Strings>
+	<Text>\n«Weapon Storage» </Text>
+	<Text>The power to the card \nreader is off. </Text>
+	<Text>The power to the card \nreader is on. </Text>
+	<Text>\n«Parking Area» </Text>
+	<Text>\n«Autopsy Room» </Text>
+	<Text>\nThe door won't open! </Text>
+	<Text>It's electronically \nlocked.  There's a card reader \non the left.</Text>
+</Strings>

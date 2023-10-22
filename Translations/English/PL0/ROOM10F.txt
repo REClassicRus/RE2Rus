@@ -1,0 +1,4 @@
+<Strings>
+	<Text>A magazine rack. None of\nthese books look useful. </Text>
+	<Text>\n</Text>
+</Strings>

@@ -1,0 +1,5 @@
+<Strings>
+	<Text>\n     Kk      </Text>
+	<Text>\n    |b     \n WW   \n   |- 7|-!    .j</Text>
+	<Text>B?        \nd</Text>
+</Strings>

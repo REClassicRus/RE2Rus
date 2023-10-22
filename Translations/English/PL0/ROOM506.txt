@@ -1,0 +1,5 @@
+<Strings>
+	<Text>A large hole has been \npunched through the wall. </Text>
+	<Text>\nThere's a .factory map . Will you take it?\nd </Text>
+	<Text>You've taken \nthe .factory map .</Text>
+</Strings>

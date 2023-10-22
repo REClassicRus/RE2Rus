@@ -1,0 +1,11 @@
+<Strings>
+	<Text>\nIt's locked.</Text>
+	<Text> </Text>
+	<Text>It might open if the power\nwas turned on. </Text>
+	<Text>A control panel for\nthe sky tram.</Text>
+	<Text> </Text>
+	<Text>Will you turn the power on?\nD </Text>
+	<Text>A control panel for\nthe sky tram. </Text>
+	<Text>\nA large gondola.   .Q  G.·  L.y  V.G .c .</Text>
+	<Text>\nNothing looks useful.</Text>
+</Strings>

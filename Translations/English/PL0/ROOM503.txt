@@ -1,0 +1,7 @@
+<Strings>
+	<Text>\nA machine control panel. </Text>
+	<Text>\nA machine control panel. \nThere's a key hole... </Text>
+	<Text>Ada is operating a\ncontrol panel. </Text>
+	<Text>The factory manager's\nschedule is written here. It doesn't look like it's\nbeen used in a while. </Text>
+	<Text>Will you go down the ladder?\nd  \n.P \n.Z \n.? \n. \n.p \n.L</Text>
+</Strings>

@@ -1,0 +1,4 @@
+<Strings>
+	<Text>\n      M8       </Text>
+	<Text>He does not have \nany items.</Text>
+</Strings>

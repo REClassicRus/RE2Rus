@@ -1,0 +1,3 @@
+<Strings>
+	<Text>A cold draft is\nblowing in.</Text>
+</Strings>

@@ -1,0 +1,10 @@
+<Strings>
+	<Text>\nIt's a square hole. </Text>
+	<Text>\nA rusted gear. </Text>
+	<Text>\nNothing peculiar. </Text>
+	<Text>It seems to be broken.\nIt won't work. </Text>
+	<Text>\nPower source for the clock. \nThe gears are clean. </Text>
+	<Text>It looks like a switch. Will\nyou push it?  </Text>
+	<Text>The iron plate seems to\nhave been recently moved. </Text>
+	<Text>An old dust shoot. Will you \njump down?</Text>
+</Strings>

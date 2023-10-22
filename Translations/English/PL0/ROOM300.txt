@@ -1,0 +1,9 @@
+<Strings>
+	<Text>\nHe died miserably. </Text>
+	<Text>It's a saw. Fresh blood is\nsmeared on the blade. </Text>
+	<Text>Formalin, Chloroform and \nother chemicals... </Text>
+	<Text>An ordinary stuffed \nanimal. </Text>
+	<Text>\nDisturbing stuff. </Text>
+	<Text>\nA ladder leads down. Will you go down?\nd </Text>
+	<Text>His body has been torn\napart. Something appears to have \nburst out from inside...  \n.X \n.t \n.Q \n. \n.X \n.] \n.O \n. \n. \n. \n. \n.e \n. \n. \n.z \n.T \n. \n.x \n. \n. \n.[ \n.g \n. \n. \n. \n.Z \n.· \n.q</Text>
+</Strings>

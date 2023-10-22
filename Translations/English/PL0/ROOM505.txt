@@ -1,0 +1,6 @@
+<Strings>
+	<Text>\nShe's unconscious... </Text>
+	<Text>\nShe's unconscious... </Text>
+	<Text>\nSecurity Panel «In case of an emergency,\nthe red light will turn on and access from outside \nwill be prohibited \nfor a limited time.»  \n.p \n.P \n.H</Text>
+	<Text>«Warning: the motor\nhas been stopped due to problems with\noverheating.»  \n.4 \n. \n.D \n., \n.L \n. \n. \n.d \n. \n. \n. \n. \n.x \n.· \n.L \n. \n.L \n.  \n.[ \n.A \n.Q \n.Q \n. \n.G \n v \n. \n. \n.T \n.n \n.y \n.I \n.c \n.d \n.e \n.D \n., \n.</Text>
+</Strings>

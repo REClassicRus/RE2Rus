@@ -1,0 +1,11 @@
+<Strings>
+	<Text>A map of the lab is\navailable here. </Text>
+	<Text>Will you file the\n.laboratory map ?\nd  \n .L \n .V \n . \n .· \n .V \n . \n .j  \n . \n . \n .  \n .  \n .  \n .</Text>
+	<Text>\n  </Text>
+	<Text>You've taken the\n.laboratory map . </Text>
+	<Text>  -:H  \n «rB.O.W.GO» </Text>
+	<Text>04?   \n            d </Text>
+	<Text>\n «rB.O.W.GO» </Text>
+	<Text>\n «rB.O.W.GOab» </Text>
+	<Text>The power supply line\nhas been switched. The console does not\nrespond either.</Text>
+</Strings>

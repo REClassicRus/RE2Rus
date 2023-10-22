@@ -1,0 +1,7 @@
+<Strings>
+	<Text>d </Text>
+	<Text> </Text>
+	<Text>A flare gun. I need\nsomething to ignite it. </Text>
+	<Text>\nIt looks like a flare gun. \nIt's already been used. </Text>
+	<Text>If only someone would\nnotice the flare...</Text>
+</Strings>

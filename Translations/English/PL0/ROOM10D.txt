@@ -1,0 +1,3 @@
+<Strings>
+	<Text>\nA stuffed animal.\n</Text>
+</Strings>

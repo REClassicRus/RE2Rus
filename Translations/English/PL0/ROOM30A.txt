@@ -1,0 +1,4 @@
+<Strings>
+	<Text>I have to go back \nfor Sherry!  \n.] \n.6 \n.P</Text>
+	<Text>Will you go down the ladder?\nd</Text>
+</Strings>

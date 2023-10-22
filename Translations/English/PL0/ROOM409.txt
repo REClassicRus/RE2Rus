@@ -1,0 +1,40 @@
+<Strings>
+	<Text>B \n\n</Text>
+	<Text>y \n\n</Text>
+	<Text>j \n\n</Text>
+	<Text>8 \n\n</Text>
+	<Text>B \n\n</Text>
+	<Text> \n\n</Text>
+	<Text> \n\n</Text>
+	<Text> \n\n</Text>
+	<Text>[ \n\n</Text>
+	<Text>e \n\n</Text>
+	<Text>L \n\n</Text>
+	<Text> \n\n</Text>
+	<Text> \n\n</Text>
+	<Text> \n\n</Text>
+	<Text> \n\n</Text>
+	<Text>D \n\n</Text>
+	<Text> \n\n</Text>
+	<Text> \n</Text>
+	<Text> \n</Text>
+	<Text> \n\n</Text>
+	<Text>t \n\n</Text>
+	<Text> \n\n</Text>
+	<Text>y \n\n</Text>
+	<Text>t \n\n</Text>
+	<Text> \n\n</Text>
+	<Text> \n\n</Text>
+	<Text> \n\n</Text>
+	<Text>t \n\n</Text>
+	<Text>8 \n\n</Text>
+	<Text>j \n\n</Text>
+	<Text>r \n\n</Text>
+	<Text>w \n\n</Text>
+	<Text>·</Text>
+	<Text>A machine to regulate the\nAmount of trash.\n </Text>
+	<Text>The corpse of a sewer\nmaintenance worker.\n </Text>
+	<Text>There's a ventilation hole\nat the end of the ladder. The fan is spinning too\nfast for me to enter.\n \n«Fan regulator» You can stop the rotation\nof the fan briefly. I can't cross unless the\nbridge is down.\n \nHe's holding something. I don't need this right\nnow.\n It looks like some sort\nof book. I don't need this right\nnow.\n </Text>
+	<Text>Will you go down the\nladder?  </Text>
+	<Text>There's a ventilation slot\nat the end of the ladder. Will you go up the ladder?\n</Text>
+</Strings>

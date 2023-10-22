@@ -1,0 +1,4 @@
+<Strings>
+	<Text>It's an elevator. \nThe power is not on... </Text>
+	<Text>The elevator is in motion.\nThe door won't open now!</Text>
+</Strings>

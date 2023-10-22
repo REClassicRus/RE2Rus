@@ -1,0 +1,5 @@
+<Strings>
+	<Text>\n           L?          \nD </Text>
+	<Text>D?        \nd </Text>
+	<Text>B?       \nd</Text>
+</Strings>

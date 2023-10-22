@@ -1,0 +1,21 @@
+<Strings>
+	<Text>A .police station map .\nWill you take it?  </Text>
+	<Text>   \n   F\n </Text>
+	<Text>\n | \nM4\n </Text>
+	<Text>K(( \n2;3 (t\n </Text>
+	<Text>\n  8\n </Text>
+	<Text>\n FAX04\n </Text>
+	<Text>\n K(|\n </Text>
+	<Text>YKD\n\n </Text>
+	<Text>\n   F \n     M8\n </Text>
+	<Text>K\nK\n </Text>
+	<Text>\n  K\n </Text>
+	<Text>\n    \n </Text>
+	<Text>\n    .2 F\n </Text>
+	<Text>\nA numerical key pad. First digit number?\n </Text>
+	<Text>Second digit number?\n\n </Text>
+	<Text>Third digit number?\n\n </Text>
+	<Text>Forth digit number?\n\n </Text>
+	<Text>You've taken a\n.police station map .\n </Text>
+	<Text>\nThe door won't open!\n</Text>
+</Strings>
