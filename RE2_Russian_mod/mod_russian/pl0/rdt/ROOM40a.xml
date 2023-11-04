@@ -1,11 +1,11 @@
 ﻿<Strings>
     <Text>{scroll 2}Закрыто на электронный замок,\nне открывается.\n</Text>
-    <Text>{scroll 2}Устройство экстренного\nзапирания замков{clear 0}\nв случае утечки газа.{clear 0}Электронный замок\nвключен.{clear 0}\nВыключить его?{branch 0}</Text>
+    <Text>{scroll 2}Устройство экстренного\nзапирания замков{clear 0}\nв случае утечки газа.{clear 0}Электронный замок\nвключён.{clear 0}\nВыключить его?{branch 0}</Text>
     <Text>{scroll 2}Газовый баллон\nпод давлением.{clear 0}В экстренной ситуации\nзагорится красный сигнал,{clear 0}и газовый баллон\nможно будет извлечь.</Text>
     <Text>{scroll 2}\n{clear 0}\n</Text>
     <Text>{scroll 2}Потолок едва держится...\nИдти туда очень опасно.</Text>
     <Text>{scroll 2}Газовый баллон\nпод высоким давлением.</Text>
-    <Text>{scroll 2}\nМертв...</Text>
+    <Text>{scroll 2}\nМёртв...</Text>
     <Text>{scroll 0}\n\n{scroll 2}{timed 18}</Text>
     <Text>{scroll 2}Дверь закрыта\nна электронный замок.\n</Text>
     <Text>{scroll 0}\n\n{scroll 2}{timed 18}</Text>

@@ -1,8 +1,8 @@
 ﻿<Strings>
     <Text>{scroll 2}За столом приёмной\nрасположен офис.</Text>
-    <Text>{scroll 2}\nЗдесь нет ничего особенного. </Text>
+    <Text>{scroll 2}\nЗдесь нет ничего особенного.</Text>
     <Text>{scroll 2}\n{clear 0}\n</Text>
-    <Text>{scroll 2}Символ полиции\nгорода Ракун.</Text>
+    <Text>{scroll 2}Символ полиции\nгорода Раккун.</Text>
     <Text>{scroll 2}Слишком темно,\nничего не видно.</Text>
     <Text>{scroll 2}\nОчень старая печь.</Text>
     <Text>{scroll 2}\n</Text>

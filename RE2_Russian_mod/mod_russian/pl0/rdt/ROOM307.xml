@@ -19,7 +19,7 @@
     <Text>{scroll 0}\n{scroll 1}{clear 80}{scroll 0}\n{scroll 1}{timed 30}</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 70}</Text>
     <Text>{scroll 2}Водопроводная труба\nещё не достроена.</Text>
-    <Text>{scroll 2}\nРешетка сломана.{clear 0}Мне здесь\nне пролезть.</Text>
+    <Text>{scroll 2}\nРешётка сломана.{clear 0}Мне здесь\nне пролезть.</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 70}</Text>
     <Text>{scroll 2}Подняться\nпо лестнице?{branch 64}</Text>
 </Strings>

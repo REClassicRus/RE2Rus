@@ -4,5 +4,5 @@
     <Text>{scroll 2}Похоже на\nоперативную карту...</Text>
     <Text>{scroll 2}Камин. Над ним\nвисит живопись.{clear 0}{timed 1}</Text>
     <Text>{scroll 2}\nНазвание:\n“Жертва адскому пламени".</Text>
-    <Text>{scroll 2}\nНичего особенного. </Text>
+    <Text>{scroll 2}\nНичего особенного.</Text>
 </Strings>

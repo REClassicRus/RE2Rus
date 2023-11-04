@@ -27,7 +27,7 @@
     <Text>{scroll 0}\n{scroll 1}{clear 47}{scroll 0}\n{scroll 1}{clear 47}{scroll 0}\n{scroll 1}{timed 40}</Text>
     <Text>{scroll 2}\nРазличные трофеи.{clear 0}\nНичего необычного.</Text>
     <Text>{scroll 2}Под картиной есть кнопка.\nНажать её?\n{branch 32}</Text>
-    <Text>{scroll 2}“Жертва умрёт от\nкогтей ягуара."{clear 0}“Змеёй её кровь\nземлю отравит."{clear 0}“Из той земли\nорел возродится."{clear 0}“Так будут открыты врата\nв преисподнюю."</Text>
+    <Text>{scroll 2}“Жертва умрёт от\nкогтей ягуара."{clear 0}“Змеёй её кровь\nземлю отравит."{clear 0}“Из той земли\nорёл возродится."{clear 0}“Так будут открыты врата\nв преисподнюю."</Text>
     <Text>{scroll 2}\nВсе “Камни" на месте. </Text>
     <Text>{scroll 2}Лифт. Похоже он\nведёт вниз...</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 22}</Text>

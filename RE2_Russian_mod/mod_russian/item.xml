@@ -69,7 +69,7 @@
             <Mix with="ID_BOW_GUN_BOLTS" result="ID_BOW_GUN" type="IM_RELOAD_0"/>
         </Data>
     </Item>
-    <Item name="Кольт Р.О.Д." id="ID_COLT_SAA">
+    <Item name="Кольт А.Е.Д." id="ID_COLT_SAA">
         <Data max="6" col="GREEN">
             <Mix with="ID_H_GUN_BULLETS" result="ID_HAND_GUN_0" type="IM_RELOAD_0"/>
         </Data>
@@ -219,37 +219,37 @@
             <Mix with="ID_MIXED_HERB_2" result="ID_MIXED_HERB_5" type="IM_HERB" pic="13"/>
         </Data>
     </Item>
-    <Item name="Синия трава" id="ID_BLUE_HERB">
+    <Item name="Синяя трава" id="ID_BLUE_HERB">
         <Data max="1" col="NONE">
             <Mix with="ID_GREEN_HERB" result="ID_MIXED_HERB_2" type="IM_HERB" pic="10"/>
             <Mix with="ID_MIXED_HERB_1" result="ID_MIXED_HERB_5" type="IM_HERB" pic="13"/>
             <Mix with="ID_MIXED_HERB_0" result="ID_MIXED_HERB_4" type="IM_HERB" pic="12"/>
         </Data>
     </Item>
-    <Item name="Смешанная трава" id="ID_MIXED_HERB_0">
+    <Item name="Смесь трав" id="ID_MIXED_HERB_0">
         <Data max="1" col="NONE">
             <Mix with="ID_BLUE_HERB" result="ID_MIXED_HERB_4" type="IM_HERB" pic="12"/>
             <Mix with="ID_GREEN_HERB" result="ID_MIXED_HERB_3" type="IM_HERB" pic="11"/>
         </Data>
     </Item>
-    <Item name="Смешанная трава" id="ID_MIXED_HERB_1">
+    <Item name="Смесь трав" id="ID_MIXED_HERB_1">
         <Data max="1" col="NONE">
             <Mix with="ID_BLUE_HERB" result="ID_MIXED_HERB_5" type="IM_HERB" pic="13"/>
         </Data>
     </Item>
-    <Item name="Смешанная трава" id="ID_MIXED_HERB_2">
+    <Item name="Смесь трав" id="ID_MIXED_HERB_2">
         <Data max="1" col="NONE">
             <Mix with="ID_RED_HERB" result="ID_MIXED_HERB_5" type="IM_HERB" pic="13"/>
             <Mix with="ID_GREEN_HERB" result="ID_MIXED_HERB_4" type="IM_HERB" pic="12"/>
         </Data>
     </Item>
-    <Item name="Смешанная трава" id="ID_MIXED_HERB_3">
+    <Item name="Смесь трав" id="ID_MIXED_HERB_3">
         <Data max="1" col="NONE"/>
     </Item>
-    <Item name="Смешанная трава" id="ID_MIXED_HERB_4">
+    <Item name="Смесь трав" id="ID_MIXED_HERB_4">
         <Data max="1" col="NONE"/>
     </Item>
-    <Item name="Смешанная трава" id="ID_MIXED_HERB_5">
+    <Item name="Смесь трав" id="ID_MIXED_HERB_5">
         <Data max="1" col="NONE"/>
     </Item>
     <Item name="Зажигалка" id="ID_LIGHTER">
