@@ -6,7 +6,7 @@
     <Text>{scroll 2}Здесь два костюма,\nкоторые вам подойдут.{clear 0}Хотите сменить одежду?\n{branch 0}</Text>
     <Text>{scroll 2}Какой из них вы хотели бы?\n{branch 4}</Text>
     <Text>{scroll 2}Хотите сменить одежду?\n{branch 5}</Text>
-    <Text>{scroll 2}Здесь костюм,\nкоторый вам подойдет.{clear 0}Хотите одеть его?\n{branch 0}</Text>
+    <Text>{scroll 2}Здесь костюм,\nкоторый вам подойдет.{clear 0}Хотите надеть его?\n{branch 0}</Text>
     <Text>{scroll 2}Здесь лежит...\nстарое оружие.</Text>
     <Text>{scroll 2}Хотите вернуть свою\nстарую одежду?{branch 0}</Text>
 </Strings>

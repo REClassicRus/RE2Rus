@@ -1,7 +1,7 @@
 ﻿<Strings>
     <Text>{scroll 2}Кнопка управления лифтом.\nНажать её?{branch 32}</Text>
     <Text>{scroll 2}Режим\nчрезвычайной ситуации.{clear 0}Вызвать лифт\nне получится.</Text>
-    <Text>{scroll 2}“Для аварийного выхода\nнеобходим {color 1}мастер-ключ{color 0}."</Text>
+    <Text>{scroll 2}“Для аварийного выхода\nнеобходим {color 1}мастер-ключ{color 0}".</Text>
     <Text>{scroll 2}\nИспользовать {color 1}мастер-ключ{color 0}?{branch 32}</Text>
     <Text>{scroll 2}Здесь виден\nаварийный выход.{clear 0}\nСпустится вниз?{branch 32}</Text>
     <Text>{scroll 2}Мне нужно вернуться\nза Шерри!</Text>

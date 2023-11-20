@@ -1,6 +1,6 @@
 ﻿<Strings>
     <Text>{scroll 2}Дверь заблокировалась\nиз-за режима самоуничтожения.</Text>
-    <Text>{scroll 2}Большой лифт, на котором\nможно добраться до платформы.{clear 0}\nВызвать его?{branch 32}</Text>
+    <Text>{scroll 2}Большой лифт. С его помощью\nможно добраться до платформы.{clear 0}\nВызвать его?{branch 32}</Text>
     <Text>{scroll 2}\n</Text>
     <Text>{scroll 2}\nЛифт ещё не пришёл!</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 73}</Text>

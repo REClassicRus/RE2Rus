@@ -8,6 +8,6 @@
     <Text>{scroll 0}\n{scroll 1}{clear 77}{scroll 0}\n{scroll 1}{timed 54}</Text>
     <Text>{scroll 0}\n{scroll 1}{clear 64}{scroll 0}\n{scroll 1}{timed 63}</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 52}</Text>
-    <Text>{scroll 2}Лифт не работает.\nНет питания... </Text>
+    <Text>{scroll 2}Лифт не работает.\nНет питания...</Text>
     <Text>{scroll 2}Лифт поехал.\nСейчас двери не откроются!</Text>
 </Strings>

@@ -30,7 +30,7 @@
     <Text>{scroll 0}\n\n{scroll 2}{timed 43}</Text>
     <Text>{scroll 0}\n\n{scroll 2}{timed 26}</Text>
     <Text>{scroll 2}Регулятор давления масла\nи бак с маслом.\n</Text>
-    <Text>{scroll 2}\nГидравлика.{clear 0}“Установите ручку для вентиля\nи вращайте её,{clear 0}чтобы поднять или\nопустить мост."</Text>
+    <Text>{scroll 2}\nГидравлика.{clear 0}“Установите ручку для вентиля\nи вращайте её,{clear 0}чтобы поднять или\nопустить мост".</Text>
     <Text>{scroll 2}Перейти не получится,\nмост не опущен.</Text>
     <Text>{scroll 0}\n\n{scroll 2}{timed 48}</Text>
     <Text>{scroll 0}\n\n{scroll 2}{clear 32}{scroll 0}\n\n{scroll 2}{clear 118}{scroll 0}\n\n{scroll 2}{timed 110}</Text>
@@ -41,7 +41,7 @@
     <Text>{scroll 0}\n\n{scroll 2}{timed 180}</Text>
     <Text>{scroll 0}\n\n{scroll 2}{timed 128}</Text>
     <Text>{scroll 2}\nАннет без сознания.\n</Text>
-    <Text>{scroll 2}Здесь растёт {color 1}синяя трава{color 0}\nИспользовать её?{branch 0}</Text>
+    <Text>{scroll 2}Здесь растёт {color 1}синяя трава{color 0}.\nИспользовать её?{branch 0}</Text>
     <Text>{scroll 2}\nСейчас мне это не нужно.</Text>
     <Text>{scroll 2}\nВы использовали {color 1}синюю траву{color 0}.</Text>
     <Text>{scroll 0}\n\n{scroll 2}{timed 60}</Text>

@@ -14,6 +14,6 @@
     <Text>{scroll 0}\n{scroll 1}{clear 100}{scroll 0}\n{scroll 1}{timed 100}</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 60}</Text>
     <Text>{scroll 2}\nДверь не открывается!</Text>
-    <Text>{scroll 2}“Завод очистки сточных\nвод города Раккун."{clear 0}\n“Вход запрещён."</Text>
+    <Text>{scroll 2}“Завод очистки сточных\nвод города Раккун".{clear 0}\n“Вход запрещён".</Text>
     <Text>{scroll 2}\nЗаперто наглухо.</Text>
 </Strings>

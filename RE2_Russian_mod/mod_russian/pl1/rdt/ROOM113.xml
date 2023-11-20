@@ -1,5 +1,5 @@
 ﻿<Strings>
-    <Text>{scroll 2}\n </Text>
+    <Text>{scroll 2}\n</Text>
     <Text>{scroll 2}Дверь намертво\nзабита.{clear 0}Похоже, здесь\nне пройти.</Text>
     <Text>{scroll 2}Слишком узко, чтобы\nвзрослый мог пролезть.</Text>
     <Text>{scroll 2}Эти документы не\nвыглядят полезными.</Text>

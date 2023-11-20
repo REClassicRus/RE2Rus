@@ -1,9 +1,9 @@
 ﻿<Strings>
     <Text>{scroll 2}Система реле, регулирующая\nэнергоснабжение лаборатории.{clear 0}{color 1}Главный предохранитель{color 0}\nбыл вынут, поэтому{clear 68}в некоторых помещениях\nнет энергии.</Text>
     <Text>{scroll 2}Система реле, регулирующая\nэнергоснабжение лаборатории.</Text>
-    <Text>{scroll 2}Почему она так\nпоступила...!?</Text>
+    <Text>{scroll 2}Почему она так\nпоступила?!..</Text>
     <Text>{scroll 2}\nЭто пистолет Ады.{clear 0}В магазине совсем\nне осталось патронов.</Text>
-    <Text>{scroll 2}\nНет времени, чтобы возвращаться!</Text>
+    <Text>{scroll 2}На возвращение\nуже нет времени!</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 52}</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 52}</Text>
     <Text>{scroll 0}\n{scroll 1}{clear 45}{scroll 0}\n{scroll 1}{timed 88}</Text>

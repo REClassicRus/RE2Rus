@@ -1,10 +1,10 @@
 ﻿<Strings>
     <Text>{scroll 2}\nОна без сознания...</Text>
     <Text>{scroll 2}\nОна без сознания...</Text>
-    <Text>{scroll 2}\nПанель безопасности{clear 0}“В чрезвычайной ситуации\nзагорится красный сигнал{clear 0}и вход снаружи будет\nзакрыт на некоторое время."</Text>
+    <Text>{scroll 2}\nПанель безопасности.{clear 0}“В чрезвычайной ситуации\nзагорится красный сигнал{clear 0}и вход снаружи будет\nзакрыт на некоторое время".</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 76}</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 80}</Text>
-    <Text>{scroll 2}“Внимание: двигатель был\nостановлен из-за перегрева."</Text>
+    <Text>{scroll 2}“Внимание: двигатель был\nостановлен из-за перегрева".</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 16}</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 88}</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 32}</Text>

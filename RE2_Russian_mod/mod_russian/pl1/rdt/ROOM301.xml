@@ -1,6 +1,6 @@
 ﻿<Strings>
     <Text>{scroll 0}\nОн молчит.\n{scroll 2}{timed 60}</Text>
-    <Text>{scroll 2}\nСтрашная смерть... \n</Text>
+    <Text>{scroll 2}\nСтрашная смерть...\n</Text>
     <Text>{scroll 2}\nТело разорвано на части.\n{clear 0}Кажется, что-то\nвырвалось из него...\n</Text>
     <Text>{scroll 0}\n\n{scroll 2}{clear 100}{scroll 0}\n\n{scroll 2}{timed 70}</Text>
     <Text>{scroll 0}\n\n{scroll 2}{timed 90}</Text>

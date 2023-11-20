@@ -12,10 +12,10 @@
     <Text>{scroll 0}\n{scroll 1}{timed 110}</Text>
     <Text>{scroll 0}\n{scroll 1}{clear 60}{scroll 0}{scroll 1}{timed 50}</Text>
     <Text>{scroll 0}\n{scroll 1}{clear 120}{scroll 0}\n{scroll 1}{clear 110}{scroll 0}\n{scroll 1}{timed 40}</Text>
-    <Text>{scroll 2}“Датчик движения\nактивирован."</Text>
+    <Text>{scroll 2}“Датчик движения\nактивирован".</Text>
     <Text>{scroll 2}\nВы взяли {color 1}карту лаборатории{color 0}.</Text>
-    <Text>{scroll 2}Здесь надпись:\nСистема пожаротушения.{clear 0}{scroll 2}\nВключить её?{branch 0}</Text>
-    <Text>{scroll 2}“Система пожаротушения\nначала работу."</Text>
-    <Text>{scroll 2}\n“Система пожаротушения\nзакончила работу."</Text>
+    <Text>{scroll 2}Здесь надпись:\n"Система пожаротушения".{clear 0}{scroll 2}\nВключить её?{branch 0}</Text>
+    <Text>{scroll 2}“Система пожаротушения\nначала работу".</Text>
+    <Text>{scroll 2}\n“Система пожаротушения\nзакончила работу".</Text>
     <Text>{scroll 2}\n</Text>
 </Strings>

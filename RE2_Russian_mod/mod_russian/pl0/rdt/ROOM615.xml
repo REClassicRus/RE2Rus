@@ -1,6 +1,6 @@
 ﻿<Strings>
     <Text>{scroll 2}Можно открыть, если найти\nподходящий ключ.</Text>
-    <Text>{scroll 2}\nНадежно заперто.</Text>
+    <Text>{scroll 2}\nНадёжно заперто.</Text>
     <Text>{scroll 2}\nРазличные химикаты.{clear 0}Интересно, какие экспери-\nменты здесь проводились?</Text>
     <Text>{scroll 2}Нажать\nна кнопку?{branch 64}</Text>
     <Text>{scroll 2}\nВакцина синтезирована.</Text>
