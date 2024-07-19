@@ -15,4 +15,4 @@
 [Оригинальный текст на английском](https://github.com/REClassicRus/RE2RusMain/tree/master/Translations/English) (без субтитров) и [остальное](https://github.com/Gemini-Loboto3/RE2-Mod-SDK/tree/master/xml), [немецкий](https://www.nexusmods.com/residentevil21998/mods/9) (с субтитрами), [испанский](https://www.nexusmods.com/residentevil21998/mods/2) (с субтитрами).
 
 ## Загрузка
-[Последняя версия](https://github.com/REClassicRus/RE2RusMain/archive/refs/heads/master.zip)
+[Последняя версия](https://mega.nz/folder/GrxWQKjK#dGxFM6W5-u0MSZHAW1EXDw)
