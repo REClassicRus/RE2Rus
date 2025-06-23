@@ -213,7 +213,7 @@
             <Mix with="ID_MIXED_HERB_2" result="ID_MIXED_HERB_4" type="IM_HERB" pic="12"/>
         </Data>
     </Item>
-    <Item name="Красная травая" id="ID_RED_HERB">
+    <Item name="Красная трава" id="ID_RED_HERB">
         <Data max="1" col="NONE">
             <Mix with="ID_GREEN_HERB" result="ID_MIXED_HERB_1" type="IM_HERB" pic="8"/>
             <Mix with="ID_MIXED_HERB_2" result="ID_MIXED_HERB_5" type="IM_HERB" pic="13"/>
