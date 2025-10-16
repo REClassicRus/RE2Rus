@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}{branch 64}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}Сигнальная ракета. Мне\nнужно как-то её зажечь.</Text>
+    <Text>{scroll 2}Похоже на\nсигнальную ракету.{clear 0}\nОна уже использована.</Text>
+    <Text>{scroll 2}Вот бы кто-то\nзаметил эту вспышку...</Text>
+</Strings>

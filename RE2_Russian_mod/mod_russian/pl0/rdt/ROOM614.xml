@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 17}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 40}{scroll 0}\n\n{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 25}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 79}{scroll 0}\n\n{scroll 2}{clear 100}{scroll 0}\n\n{scroll 2}{clear 60}{scroll 0}\n\n{scroll 2}{timed 68}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 73}{scroll 0}\n\n{scroll 2}{clear 50}{scroll 0}\n\n{scroll 2}{clear 50}{scroll 0}\n\n{scroll 2}{clear 80}{scroll 0}{scroll 2}{timed 17}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 25}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 120}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 30}</Text>
+    <Text>{scroll 0}{scroll 2}{clear 50}{scroll 0}\n\n{scroll 2}{clear 75}{scroll 0}\n\n{scroll 2}{clear 83}{scroll 0}\n\n{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 50}{scroll 0}\n\n{scroll 2}{timed 42}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 80}{scroll 0}\n\n{scroll 2}{clear 50}{scroll 0}\n\n{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 50}{scroll 0}\n\n{scroll 2}{clear 75}{scroll 0}\n\n{scroll 2}{clear 100}{scroll 0}\n\n{scroll 2}{timed 52}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 30}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 100}{scroll 0}\n\n{scroll 2}{clear 30}{scroll 0}\n\n{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 75}{scroll 0}\n\n{scroll 2}{clear 40}{scroll 0}\n\n{scroll 2}{timed 95}</Text>
+    <Text>{scroll 2}\nЗдесь огромное яйцо.\n</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 33}</Text>
+</Strings>

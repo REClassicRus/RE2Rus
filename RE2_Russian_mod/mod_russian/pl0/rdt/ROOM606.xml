@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}\nЛифт.{clear 0}Нажатие кнопки\nничего не даёт.{clear 0}Его уже давно не\nиспользовали.</Text>
+    <Text>{scroll 2}\nСейчас я не могу вернуться!</Text>
+</Strings>

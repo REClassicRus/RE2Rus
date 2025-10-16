@@ -1,0 +1,18 @@
+﻿<Strings>
+    <Text>{scroll 2}Рычаг для\nзапуска поезда.</Text>
+    <Text>{scroll 2}Двигатель не запускается\nиз-за нехватки энергии.</Text>
+    <Text>{scroll 2}\nПодвинуть рычаг?{branch 32}</Text>
+    <Text>{scroll 2}\nРазличные датчики.</Text>
+    <Text>{scroll 2}\nЗаперто.</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 27}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 36}{scroll 0}\n{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 48}{scroll 0}\n{scroll 1}{timed 48}</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 22}{scroll 0}\n{scroll 1}{clear 51}{scroll 0}\n{scroll 1}{clear 65}{scroll 0}\n{scroll 1}{timed 69}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 57}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 24}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 50}</Text>
+    <Text>{scroll 2}Ворота туннеля\nещё не открыты!</Text>
+</Strings>
