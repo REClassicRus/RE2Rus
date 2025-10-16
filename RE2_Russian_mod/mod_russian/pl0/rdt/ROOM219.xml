@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}\nМне нужно вернуться к Бену!\n</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 60}</Text>
+    <Text>{scroll 2}Панель управления,\nпозволяющая отпереть замок.\n{clear 0}\nЗамок открыт.\n</Text>
+    <Text>{scroll 2}Видимо это мусоропровод.\nВнутри темно.\n</Text>
+    <Text>{scroll 2}\nДверь не открывается!\n</Text>
+</Strings>

@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}Мне нужно вернуться\nза Шерри!</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 14}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 35}</Text>
+    <Text>{scroll 2}Спуститься\nпо лестнице?{branch 64}</Text>
+</Strings>
