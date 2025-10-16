@@ -1,4 +1,4 @@
-<Strings>
+﻿<Strings>
 	<!-- ascii strings -->
 	<!-- scenarios -->
 	<Text>Leon A</Text>
@@ -97,6 +97,6 @@
 	<Text>Сценарий Б</Text>
 	<Text>4-ый выживший</Text>
 	<Text>Пожалуйста, подождите минутку.</Text>
-	<Text>Подсумок</Text>
-	<Text>пристёгнут.</Text>
+	<Text></Text>
+	<Text>Подсумок пристёгнут.</Text>
 </Strings>

@@ -1,15 +1,15 @@
-<Strings>
+﻿<Strings>
 	<!--options, input screen -->
-	<Text>Сохранить</Text>
+	<Text>Применить</Text>
 	<Text>Выход</Text>
-	<Text>Выйти</Text>
+	<Text>Отменить</Text>
 	<Text>По умолчанию</Text>
 	<Text>Карта</Text>
-	<Text>Параметры</Text>
+	<Text>Настройки</Text>
 	<Text>Статус</Text>
 	<Text>Бег/Отмена</Text>
-	<Text>Огонь/Использов.</Text>
-	<Text>Приготовиться</Text>
+	<Text>Огонь/Подтвердить</Text>
+	<Text>Прицеливание</Text>
 	<Text>Поворот направо</Text>
 	<Text>Поворот налево</Text>
 	<Text>Назад</Text>

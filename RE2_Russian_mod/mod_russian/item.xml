@@ -100,7 +100,7 @@
             <Mix with="ID_H_GUN_BULLETS" result="ID_HAND_GUN_0" type="IM_RELOAD_0"/>
         </Data>
     </Item>
-    <Item name="Пистолет. патроны" id="ID_H_GUN_BULLETS">
+    <Item name="Патроны пистолета" id="ID_H_GUN_BULLETS">
         <Data max="250" col="BLUE">
             <Mix with="ID_HAND_GUN_0" result="ID_HAND_GUN_0" type="IM_RELOAD_1"/>
             <Mix with="ID_HAND_GUN_1" result="ID_HAND_GUN_1" type="IM_RELOAD_1"/>
@@ -110,14 +110,14 @@
             <Mix with="ID_H_GUN_BULLETS" result="ID_H_GUN_BULLETS" type="IM_RELOAD_0"/>
         </Data>
     </Item>
-    <Item name="Патроны дробов." id="ID_SHOTGUN_SHELLS">
+    <Item name="Патроны дробовика" id="ID_SHOTGUN_SHELLS">
         <Data max="250" col="BLUE">
             <Mix with="ID_SHOTGUN" result="ID_SHOTGUN" type="IM_RELOAD_1"/>
             <Mix with="ID_C_SHOTGUN" result="ID_C_SHOTGUN" type="IM_RELOAD_1"/>
             <Mix with="ID_SHOTGUN_SHELLS" result="ID_SHOTGUN_SHELLS" type="IM_RELOAD_0"/>
         </Data>
     </Item>
-    <Item name="Патр. Магнума" id="ID_M_BULLETS">
+    <Item name="Патроны Магнума" id="ID_M_BULLETS">
         <Data max="250" col="BLUE">
             <Mix with="ID_MAGNUM" result="ID_MAGNUM" type="IM_RELOAD_1"/>
             <Mix with="ID_C_MAGNUM" result="ID_C_MAGNUM" type="IM_RELOAD_1"/>
@@ -154,7 +154,7 @@
             <Mix with="ID_ACID_ROUNDS" result="ID_ACID_ROUNDS" type="IM_RELOAD_0"/>
         </Data>
     </Item>
-    <Item name="Патроны Автомата" id="ID_MG_BULLETS">
+    <Item name="Патроны автомата" id="ID_MG_BULLETS">
         <Data max="100" col="BLUE,PERCENTAGE">
             <Mix with="ID_S_MACHINE_GUN" result="ID_S_MACHINE_GUN" type="IM_RELOAD_1"/>
             <Mix with="ID_MG_BULLETS" result="ID_MG_BULLETS" type="IM_RELOAD_0"/>
@@ -185,7 +185,7 @@
             <Mix with="ID_HAND_GUN_0" result="ID_C_HAND_GUN" type="IM_COMBINE" pic="0"/>
         </Data>
     </Item>
-    <Item name="Части магнума" id="ID_MAGNUM_PARTS">
+    <Item name="Части Магнума" id="ID_MAGNUM_PARTS">
         <Data max="1" col="NONE">
             <Mix with="ID_MAGNUM" result="ID_C_MAGNUM" type="IM_COMBINE" pic="1"/>
         </Data>
@@ -368,7 +368,7 @@
     <Item name="Г-вирус" id="ID_GVIRUS">
         <Data max="1" col="NONE"/>
     </Item>
-    <Item name="Спец. ключ" id="ID_SPECIAL_KEY">
+    <Item name="Специальный ключ" id="ID_SPECIAL_KEY">
         <Data max="1" attr="ID_LOCKER_KEY" col="NONE"/>
     </Item>
     <Item name="Штекер ноля" id="ID_JOINT_S_PLUG">
@@ -398,10 +398,10 @@
     <Item name="Ключ участка" id="ID_PRECINCT_KEY_3">
         <Data max="1" attr="ID_CLUB_KEY" col="NONE"/>
     </Item>
-    <Item name="Ключ панели упр." id="ID_C_PANEL_KEY_0">
+    <Item name="Ключ панели управ." id="ID_C_PANEL_KEY_0">
         <Data max="1" attr="ID_DOWN_KEY" col="NONE"/>
     </Item>
-    <Item name="Ключ панели упр." id="ID_C_PANEL_KEY_1">
+    <Item name="Ключ панели управ." id="ID_C_PANEL_KEY_1">
         <Data max="1" attr="ID_UP_KEY" col="NONE"/>
     </Item>
     <Item name="Ключ энергоснаб." id="ID_P_ROOM_KEY">
@@ -443,7 +443,7 @@
     <Item name="Письмо начальнику">
         <File pages="9" back_h="80"/>
     </Item>
-    <Item name="Письмо начальнику">
+    <Item name="Копия письма начальнику">
         <File pages="9" back_h="80"/>
     </Item>
     <Item name="Дневник секретарши 1">
@@ -488,7 +488,7 @@
     <Item name="Инстр. для синт. вакцины">
         <File pages="6" back_h="80"/>
     </Item>
-    <Item name="Руков. по безоп. в лаб.">
+    <Item name="Руков. по безоп. в лаборат.">
         <File pages="5" back_h="80"/>
     </Item>
     <Item name="Отчёт о газе П-эпсилон">
@@ -508,6 +508,7 @@
     <Item name="Ключ трефы" id="ID_CLUB_KEY"/>
     <Item name="Сердце девы" id="ID_VIRGIN_HEART"/>
     <Item name="Рукоятка квадрат." id="ID_SQUARE_CRANK"/>
+    <Item name="Факс управляющему канал." id="NONE"/>
     <Item name="Ключ движ. вниз" id="ID_DOWN_KEY"/>
     <Item name="Ключ движ. вверх" id="ID_UP_KEY"/>
     <Item name="Ключ от шкафа" id="ID_LOCKER_KEY"/>
