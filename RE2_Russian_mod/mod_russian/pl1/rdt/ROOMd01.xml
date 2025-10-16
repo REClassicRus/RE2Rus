@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}Спуститься\nпо лестнице?{branch 0}</Text>
+    <Text>{scroll 2}Подняться\nпо лестнице?{branch 0}</Text>
+    <Text>{scroll 2}\n{clear 0}\n{branch 0}</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+</Strings>
