@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}\nЗаперто.\n</Text>
+    <Text>{scroll 2}\nВы использовали ключ.\n</Text>
+    <Text>{scroll 2}Вход на автостоянку.\nВорота опущены.\n</Text>
+</Strings>

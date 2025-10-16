@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}Этот рычаг позволяет\nнабирать и спускать воду.{clear 0}\nПодвинуть его?{branch 32}</Text>
+    <Text>{scroll 2}Здесь {color 1}карта канализации{color 0}.\nВзять её?\n{branch 64}</Text>
+    <Text>{scroll 2}\nВы взяли {color 1}карту канализации{color 0}.</Text>
+    <Text>{scroll 2}Воды слишком много,\nмне не пройти.</Text>
+</Strings>

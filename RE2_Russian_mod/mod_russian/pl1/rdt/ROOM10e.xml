@@ -1,0 +1,24 @@
+﻿<Strings>
+    <Text>{scroll 2}Здесь кнопка.\nНажать её?\n{branch 32}</Text>
+    <Text>{scroll 2}Здесь кнопка.\nНажать её?\n{branch 32}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 18}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 34}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 89}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 80}{scroll 0}\n\n{scroll 2}{timed 82}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 63}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 28}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 53}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 40}{scroll 0}\n\n{scroll 2}{timed 83}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 23}{scroll 0}\n\n{scroll 2}{timed 83}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 70}{scroll 0}\n{scroll 2}{clear 80}{scroll 0}\n\n{scroll 2}{timed 47}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 40}{scroll 0}\n\n{scroll 2}{clear 40}{scroll 0}\n\n{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{clear 100}{scroll 0}\n\n{scroll 2}{clear 38}{scroll 0}\n\n{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 23}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 76}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 31}</Text>
+    <Text>{scroll 0}\n\n{scroll 2}{timed 40}</Text>
+    <Text>{scroll 2}Различные предметы\nискусства.{clear 0}\nНичего полезного.</Text>
+    <Text>{scroll 2}\nЕго держали в чистоте.\n</Text>
+    <Text>{scroll 2}Кубок.\nНичего необычного.\n</Text>
+    <Text>{scroll 2}Похоже, его\nне использовали.\n</Text>
+</Strings>

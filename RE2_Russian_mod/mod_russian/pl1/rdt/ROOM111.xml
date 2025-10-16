@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{scroll 2}\nКвадратное отверстие.</Text>
+    <Text>{scroll 2}\nРжавый механизм.</Text>
+    <Text>{scroll 2}\nНичего особенного.</Text>
+    <Text>{scroll 2}Похоже, механизм\nсломан.{clear 0}\nОн не работает.</Text>
+    <Text>{scroll 2}Часовой механизм.\nШестерёнки смазаны.</Text>
+    <Text>{scroll 2}Похоже на кнопку.\nНажать её?\n{branch 0}</Text>
+    <Text>{scroll 2}Железная дверь. Кажется\nеё недавно двигали.</Text>
+    <Text>{scroll 2}Старый мусоропровод.\nСпрыгнуть вниз?\n{branch 0}</Text>
+</Strings>
