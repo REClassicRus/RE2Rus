@@ -8,12 +8,12 @@
 	<Text>Настройки</Text>
 	<Text>Статус</Text>
 	<Text>Бег/Отмена</Text>
-	<Text>Огонь/Подтвердить</Text>
+	<Text>Атака/Подтвердить</Text>
 	<Text>Прицеливание</Text>
 	<Text>Поворот направо</Text>
 	<Text>Поворот налево</Text>
 	<Text>Назад</Text>
-	<Text>Вперед</Text>
+	<Text>Вперёд</Text>
 	<!--options, audio settings -->
 	<Text>Режим</Text>
 	<Text>Моно</Text>
